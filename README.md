@@ -16,3 +16,11 @@ This repo is set up to work as an automated, periodic process in the manner of
 [Git scraping as described by Simon
 Willison](https://simonwillison.net/2020/Oct/9/git-scraping/). See
 `.github/workflows/scraper.yml`.
+
+The scraper reads the Challenge.gov homepage, which appears to be the canonical
+place for the list of currently active challenges. The scraper parses the HTML
+and extracts details about each challenge, then serializes them to a formatted
+JSON document, `challenges.json` in the top-level directory.
+
+The GitHub action that runs the scraper periodically automatically checks in
+any differences in `challenges.json`, producing a diff history over time.
