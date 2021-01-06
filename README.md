@@ -15,7 +15,7 @@ format by scraping the homepage periodically.
 This repo is set up to work as an automated, periodic process in the manner of
 [Git scraping as described by Simon
 Willison](https://simonwillison.net/2020/Oct/9/git-scraping/). See
-`.github/workflows/scraper.yml`.
+`.github/workflows/scrape.yml`.
 
 The scraper reads the Challenge.gov homepage, which appears to be the canonical
 place for the list of currently active challenges. The scraper parses the HTML
