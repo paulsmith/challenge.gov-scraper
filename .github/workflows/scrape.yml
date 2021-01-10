@@ -33,7 +33,9 @@ jobs:
           run: go test ./...
         - name: Run scraper for latest challenges
           run: |-
-              go run main.go > challenges.json
+              go build -o scraper
+              ./scraper json > challenges.json
+              ./scraper rss < challenges.json > challenges.rss
         - name: Commit and push if changed
           run: |-
               git config user.name "Automated"

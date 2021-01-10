@@ -2,11 +2,13 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 	"time"
 
@@ -97,13 +99,33 @@ func scrape() ([]challenge, error) {
 }
 
 func main() {
-	challenges, err := scrape()
-	if err != nil {
-		log.Fatalf("error scraping: %v", err)
+	flag.Parse()
+	if flag.NArg() == 0 {
+		fmt.Fprintf(os.Stderr, "usage: %s [rss|json]\n", filepath.Base(os.Args[0]))
+		os.Exit(1)
 	}
-	enc := json.NewEncoder(os.Stdout)
-	enc.SetIndent("", "\t")
-	if err := enc.Encode(challenges); err != nil {
-		log.Fatalf("error writing JSON: %v", err)
+	for i := 0; i < flag.NArg(); i++ {
+		if flag.Arg(i) == "json" {
+			challenges, err := scrape()
+			if err != nil {
+				log.Fatalf("error scraping: %v", err)
+			}
+			enc := json.NewEncoder(os.Stdout)
+			enc.SetIndent("", "\t")
+			if err := enc.Encode(challenges); err != nil {
+				log.Fatalf("error writing JSON: %v", err)
+			}
+		} else if flag.Arg(i) == "rss" {
+			var cs []challenge
+			dec := json.NewDecoder(os.Stdin)
+			if err := dec.Decode(&cs); err != nil {
+				log.Fatalf("error reading JSON: %v", err)
+			}
+			if err := challenges(cs).emitRssFeed(os.Stdout); err != nil {
+				log.Fatalf("error writing RSS: %v", err)
+			}
+		} else {
+			log.Fatalf("unknown argument %q", flag.Arg(i))
+		}
 	}
 }
