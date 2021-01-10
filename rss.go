@@ -29,7 +29,7 @@ func (cs challenges) emitRssFeed(w io.Writer) error {
 	var feed rss20Feed
 	feed.Version = "2.0"
 	feed.Channel.Title = "Unofficial Challenge.gov challenges feed"
-	feed.Channel.Link = "https://username.github.io/challenge.gov-scraper/challenges.rss"
+	feed.Channel.Link = "https://paulsmith.github.io/challenge.gov-scraper/challenges.rss"
 	feed.Channel.Description = "Unofficial Challenge.gov challenges feed"
 	for i := range cs {
 		var entry rssEntry
