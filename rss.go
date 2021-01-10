@@ -10,6 +10,7 @@ type rssEntry struct {
 	Title       string `xml:"title"`
 	Link        string `xml:"link"`
 	Description string `xml:"description"`
+	Guid        string `xml:"guid"`
 }
 
 type rss20Feed struct {
@@ -35,6 +36,7 @@ func (cs challenges) emitRssFeed(w io.Writer) error {
 		var entry rssEntry
 		entry.Title = cs[i].Name + " · " + cs[i].Agency
 		entry.Link = cs[i].DetailsUrl
+		entry.Guid = cs[i].DetailsUrl
 		entry.Description = fmt.Sprintf("Summary: %s\n\nDeadline: %v", cs[i].Summary, cs[i].Deadline)
 		feed.Channel.Entries = append(feed.Channel.Entries, entry)
 	}
