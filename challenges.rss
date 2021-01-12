@@ -5,12 +5,6 @@
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
 		<item>
-			<title>Fleet Visual Information Capture Challenge · Department of Defense, Office of Naval Research, Naval Information Warfare Center Pacific </title>
-			<link>https://www.challenge.gov/challenge/fleet-vi-capture-challenge/</link>
-			<description>Summary: Fleet VI is a no-fail mission designed to document with video, for the purpose of being released to the media,...&#xA;&#xA;Deadline: 2021-01-11 23:59:00 -0500 -0500</description>
-			<guid>https://www.challenge.gov/challenge/fleet-vi-capture-challenge/</guid>
-		</item>
-		<item>
 			<title>NASA Lunar Delivery Challenge · NASA</title>
 			<link>https://www.herox.com/LunarDelivery</link>
 			<description>Summary: Landing on the Moon with all that we need is just the beginning. Now we have to unload it.&#xA;&#xA;Deadline: 2021-01-19 17:00:00 -0500 -0500</description>
@@ -165,6 +159,12 @@
 			<link>https://www.challenge.gov/challenge/break-the-ice-phase1/</link>
 			<description>Summary: NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...&#xA;&#xA;Deadline: 2021-06-18 23:59:00 -0400 -0400</description>
 			<guid>https://www.challenge.gov/challenge/break-the-ice-phase1/</guid>
+		</item>
+		<item>
+			<title>Deep Space Food Challenge Phase 1 · NASA</title>
+			<link>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</link>
+			<description>Summary: Help Feed the Next Generation of Space Explorers!&#xA;&#xA;Deadline: 2021-07-31 18:00:00 -0400 -0400</description>
+			<guid>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</guid>
 		</item>
 		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>

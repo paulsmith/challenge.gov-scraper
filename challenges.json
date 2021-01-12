@@ -1,12 +1,5 @@
 [
 	{
-		"name": "Fleet Visual Information Capture Challenge",
-		"agency": "Department of Defense, Office of Naval Research, Naval Information Warfare Center Pacific ",
-		"summary": "Fleet VI is a no-fail mission designed to document with video, for the purpose of being released to the media,...",
-		"deadline": "2021-01-11T23:59:00-05:00",
-		"details_url": "https://www.challenge.gov/challenge/fleet-vi-capture-challenge/"
-	},
-	{
 		"name": "NASA Lunar Delivery Challenge",
 		"agency": "NASA",
 		"summary": "Landing on the Moon with all that we need is just the beginning. Now we have to unload it.",
@@ -187,6 +180,13 @@
 		"summary": "NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...",
 		"deadline": "2021-06-18T23:59:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/break-the-ice-phase1/"
+	},
+	{
+		"name": "Deep Space Food Challenge Phase 1",
+		"agency": "NASA",
+		"summary": "Help Feed the Next Generation of Space Explorers!",
+		"deadline": "2021-07-31T18:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/"
 	},
 	{
 		"name": "Streamflow Forecast Rodeo",
