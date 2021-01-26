@@ -5,12 +5,6 @@
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
 		<item>
-			<title>SMART Visualization Platform Prize Challenge · U.S. Department of Energy</title>
-			<link>https://netl.doe.gov/challenges/SMARTVisualizationPlatform</link>
-			<description>Summary: Bring the Earth to Life with a New Intuitive Visualization Tool for Subsurface Environments!&#xA;&#xA;Deadline: 2021-01-22 20:00:00 -0500 -0500</description>
-			<guid>https://netl.doe.gov/challenges/SMARTVisualizationPlatform</guid>
-		</item>
-		<item>
 			<title>Canal Safety Challenge · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.canalsafetychallenge.org</link>
 			<description>Summary: Discovering solutions to improve public safety and reduce drownings in canals throughout the U.S.&#xA;&#xA;Deadline: 2021-01-27 19:00:00 -0500 -0500</description>
@@ -90,9 +84,9 @@
 		</item>
 		<item>
 			<title>Unmanned Aircraft Systems Ground Control Station Software Challenge Series · NASA</title>
-			<link>https://www.topcoder.com/</link>
+			<link>https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series</link>
 			<description>Summary: NASA needs a Ground Control Station software for small unmanned aircraft systems that can be safely used for live flight...&#xA;&#xA;Deadline: 2021-03-01 08:00:00 -0500 -0500</description>
-			<guid>https://www.topcoder.com/</guid>
+			<guid>https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series</guid>
 		</item>
 		<item>
 			<title>More Water Less Concentrate · U.S. Department of the Interior - Bureau of Reclamation</title>

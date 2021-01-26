@@ -1,12 +1,5 @@
 [
 	{
-		"name": "SMART Visualization Platform Prize Challenge",
-		"agency": "U.S. Department of Energy",
-		"summary": "Bring the Earth to Life with a New Intuitive Visualization Tool for Subsurface Environments!",
-		"deadline": "2021-01-22T20:00:00-05:00",
-		"details_url": "https://netl.doe.gov/challenges/SMARTVisualizationPlatform"
-	},
-	{
 		"name": "Canal Safety Challenge",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Discovering solutions to improve public safety and reduce drownings in canals throughout the U.S.",
@@ -102,7 +95,7 @@
 		"agency": "NASA",
 		"summary": "NASA needs a Ground Control Station software for small unmanned aircraft systems that can be safely used for live flight...",
 		"deadline": "2021-03-01T08:00:00-05:00",
-		"details_url": "https://www.topcoder.com/"
+		"details_url": "https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series"
 	},
 	{
 		"name": "More Water Less Concentrate",
