@@ -5,12 +5,6 @@
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
 		<item>
-			<title>Canal Safety Challenge · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.canalsafetychallenge.org</link>
-			<description>Summary: Discovering solutions to improve public safety and reduce drownings in canals throughout the U.S.&#xA;&#xA;Deadline: 2021-01-27 19:00:00 -0500 -0500</description>
-			<guid>https://www.canalsafetychallenge.org</guid>
-		</item>
-		<item>
 			<title>COVID-19 Precision Immunology App-a-thon · Food and Drug Administration (FDA)</title>
 			<link>https://go.usa.gov/x7pvm</link>
 			<description>Summary: Participants will develop applications and pipelines to illuminate the relationship between personalized adaptive immunity molecular data and COVID-19 disease variables...&#xA;&#xA;Deadline: 2021-01-28 23:59:00 -0500 -0500</description>
