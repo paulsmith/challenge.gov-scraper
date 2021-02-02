@@ -1,26 +1,5 @@
 [
 	{
-		"name": "COVID-19 Precision Immunology App-a-thon",
-		"agency": "Food and Drug Administration (FDA)",
-		"summary": "Participants will develop applications and pipelines to illuminate the relationship between personalized adaptive immunity molecular data and COVID-19 disease variables...",
-		"deadline": "2021-01-28T23:59:00-05:00",
-		"details_url": "https://go.usa.gov/x7pvm"
-	},
-	{
-		"name": "Power of Passengers Challenge",
-		"agency": "Department of Homeland Security - Transportation Security Administration",
-		"summary": "Building a better, more secure and safer travel experience.",
-		"deadline": "2021-01-28T20:00:00-05:00",
-		"details_url": "https://www.challenge.gov/challenge/power-of-passengers-challenge/"
-	},
-	{
-		"name": "NSWC Crane AISUM Prize Challenge",
-		"agency": "Naval Surface Warfare Center – Crane, Division (NSWC-CR)",
-		"summary": "Seeking AI algorithms to combine with Robotic Autonomous Systems for Small Unit Maneuver elements.",
-		"deadline": "2021-01-29T14:00:00-05:00",
-		"details_url": "https://www.challenge.gov/challenge/nswc-crane-aisum-prize-challenge/"
-	},
-	{
 		"name": "Safer and More Effective Less than Lethal Capabilities for Area Denial and Crowd Control",
 		"agency": "Department of Defense - Combating Terrorism Technical Support Office (CTTSO)",
 		"summary": "Seeking innovative concepts and technologies for de-escalating situations while mitigating injury and unintended effects",
