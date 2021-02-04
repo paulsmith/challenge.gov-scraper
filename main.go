@@ -167,7 +167,12 @@ func main() {
 		}
 	case "rss":
 		var cs []challenge
-		dec := json.NewDecoder(os.Stdin)
+		f, err := os.Open(flag.Arg(1))
+		if err != nil {
+			log.Fatalf("opening JSON file: %v", err)
+		}
+		defer f.Close()
+		dec := json.NewDecoder(f)
 		if err := dec.Decode(&cs); err != nil {
 			log.Fatalf("error reading JSON: %v", err)
 		}
