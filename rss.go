@@ -4,6 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"io"
+	"time"
 )
 
 type rssEntry struct {
@@ -20,6 +21,7 @@ type rss20Feed struct {
 		Title       string     `xml:"title"`
 		Link        string     `xml:"link"`
 		Description string     `xml:"description"`
+		PubDate     string     `xml:"pubDate"`
 		Entries     []rssEntry `xml:"item"`
 	} `xml:"channel"`
 }
@@ -32,6 +34,7 @@ func (cs challenges) emitRssFeed(w io.Writer) error {
 	feed.Channel.Title = "Unofficial Challenge.gov challenges feed"
 	feed.Channel.Link = "https://paulsmith.github.io/challenge.gov-scraper/challenges.rss"
 	feed.Channel.Description = "Unofficial Challenge.gov challenges feed"
+	feed.Channel.PubDate = time.Now().Format(time.RFC822)
 	for i := range cs {
 		var entry rssEntry
 		entry.Title = cs[i].Name + " · " + cs[i].Agency
