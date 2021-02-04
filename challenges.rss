@@ -5,12 +5,6 @@
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
 		<item>
-			<title>Safer and More Effective Less than Lethal Capabilities for Area Denial and Crowd Control · Department of Defense - Combating Terrorism Technical Support Office (CTTSO)</title>
-			<link>https://innocentive.wazoku.com/#/challenge/e9a85315008a4d9c97768a3ae3531070</link>
-			<description>Summary: Seeking innovative concepts and technologies for de-escalating situations while mitigating injury and unintended effects&#xA;&#xA;Deadline: 2021-02-01 23:59:00 -0500 -0500</description>
-			<guid>https://innocentive.wazoku.com/#/challenge/e9a85315008a4d9c97768a3ae3531070</guid>
-		</item>
-		<item>
 			<title>2021 FAA Challenge: Smart Airport Student Competition · Federal Aviation Administration</title>
 			<link>https://www.challenge.gov/challenge/2021-faa-challenge-smart-airport-student-competition/</link>
 			<description>Summary: The FAA challenges undergraduate and graduate students to develop innovative ways to use smart technology in and around airports to...&#xA;&#xA;Deadline: 2021-02-04 23:59:00 -0500 -0500</description>
@@ -89,6 +83,12 @@
 			<guid>https://www.challenge.gov/challenge/NHLBI-hope-for-sickle-cell-disease-challenge/</guid>
 		</item>
 		<item>
+			<title>ENACT Challenge · Department of Transportation - Federal Aviation Administration (FAA)</title>
+			<link>https://www.ENACTChallenge.com</link>
+			<description>Summary: Enabling Network Architecture for Collaborative Technologies&#xA;&#xA;Deadline: 2021-04-02 23:59:00 -0400 -0400</description>
+			<guid>https://www.ENACTChallenge.com</guid>
+		</item>
+		<item>
 			<title>2021 Solar Decathlon Design Challenge · Department of Energy - Energy Programs</title>
 			<link>https://www.challenge.gov/challenge/2021-solar-decathlon-design-challenge/</link>
 			<description>Summary: Want to design buildings that help address the most pressing needs of our time? Love the thrill of competing with...&#xA;&#xA;Deadline: 2021-04-15 17:00:00 -0400 -0400</description>
@@ -125,6 +125,12 @@
 			<guid>https://www.challenge.gov/challenge/break-the-ice-phase1/</guid>
 		</item>
 		<item>
+			<title>Water America&#39;s Crops Challenge · Department of the Interior - Bureau of Reclamation</title>
+			<link>https://www.herox.com/WaterAmericasCrops</link>
+			<description>Summary: Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
+			<guid>https://www.herox.com/WaterAmericasCrops</guid>
+		</item>
+		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
 			<link>https://www.challenge.gov/challenge/synthetic-health-data-challenge/</link>
 			<description>Summary: Create and test novel solutions to further cultivate Synthea™ capabilities and the synthetic data it generates for healthcare and research...&#xA;&#xA;Deadline: 2021-07-13 17:00:00 -0400 -0400</description>
@@ -147,6 +153,12 @@
 			<link>https://www.subtchallenge.com/</link>
 			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
 			<guid>https://www.subtchallenge.com/</guid>
+		</item>
+		<item>
+			<title>NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III  · Department of Health and Human Services - National Institutes of Health</title>
+			<link>https://www.challenge.gov/challenge/3d-roc-phase3/</link>
+			<description>Summary: Build your vision of the future.&#xA;&#xA;Deadline: 2022-06-01 14:00:00 -0400 -0400</description>
+			<guid>https://www.challenge.gov/challenge/3d-roc-phase3/</guid>
 		</item>
 	</channel>
 </rss>
