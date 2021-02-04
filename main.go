@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -23,6 +24,7 @@ type challenge struct {
 	Summary    string    `json:"summary"`
 	Deadline   time.Time `json:"deadline"`
 	DetailsUrl string    `json:"details_url"`
+	PubDate    time.Time `json:"pub_date"`
 }
 
 var loc *time.Location
@@ -98,34 +100,81 @@ func scrape() ([]challenge, error) {
 	return challenges, nil
 }
 
+func exists(pathname string) bool {
+	_, err := os.Stat(pathname)
+	if os.IsNotExist(err) {
+		return false
+	} else if err != nil {
+		panic(err)
+	}
+	return true
+}
+
 func main() {
 	flag.Parse()
-	if flag.NArg() == 0 {
-		fmt.Fprintf(os.Stderr, "usage: %s [rss|json]\n", filepath.Base(os.Args[0]))
+	if flag.NArg() < 2 {
+		fmt.Fprintf(os.Stderr, "usage: %s <command>\n", filepath.Base(os.Args[0]))
+		fmt.Fprintf(os.Stderr, "commands\n")
+		fmt.Fprintf(os.Stderr, "  - json /path/to/challenges.json\n")
+		fmt.Fprintf(os.Stderr, "  - rss /path/to/challenges.json\n")
 		os.Exit(1)
 	}
-	for i := 0; i < flag.NArg(); i++ {
-		if flag.Arg(i) == "json" {
-			challenges, err := scrape()
+	switch flag.Arg(0) {
+	case "json":
+		outputFile := flag.Arg(1)
+		var existing []challenge
+		if exists(outputFile) {
+			f, err := os.Open(outputFile)
 			if err != nil {
-				log.Fatalf("error scraping: %v", err)
+				log.Fatalf("opening %q: %v", outputFile, err)
 			}
-			enc := json.NewEncoder(os.Stdout)
-			enc.SetIndent("", "\t")
-			if err := enc.Encode(challenges); err != nil {
-				log.Fatalf("error writing JSON: %v", err)
-			}
-		} else if flag.Arg(i) == "rss" {
-			var cs []challenge
-			dec := json.NewDecoder(os.Stdin)
-			if err := dec.Decode(&cs); err != nil {
+			defer f.Close()
+			dec := json.NewDecoder(f)
+			if err := dec.Decode(&existing); err != nil {
 				log.Fatalf("error reading JSON: %v", err)
 			}
-			if err := challenges(cs).emitRssFeed(os.Stdout); err != nil {
-				log.Fatalf("error writing RSS: %v", err)
-			}
-		} else {
-			log.Fatalf("unknown argument %q", flag.Arg(i))
 		}
+		lookup := make(map[string]challenge)
+		for _, c := range existing {
+			lookup[c.DetailsUrl] = c
+		}
+		scrapeTs := time.Now()
+		challenges, err := scrape()
+		if err != nil {
+			log.Fatalf("error scraping: %v", err)
+		}
+		for i, c := range challenges {
+			if old, ok := lookup[c.DetailsUrl]; ok && !old.PubDate.IsZero() {
+				challenges[i].PubDate = old.PubDate
+			} else {
+				challenges[i].PubDate = scrapeTs
+			}
+		}
+		tmpfile, err := ioutil.TempFile("", "challenges-*.json")
+		if err != nil {
+			log.Fatalf("opening temp file: %v", err)
+		}
+		enc := json.NewEncoder(tmpfile)
+		enc.SetIndent("", "\t")
+		if err := enc.Encode(challenges); err != nil {
+			log.Fatalf("error writing JSON: %v", err)
+		}
+		if err := tmpfile.Close(); err != nil {
+			log.Fatalf("closing temp file: %v", err)
+		}
+		if err := os.Rename(tmpfile.Name(), outputFile); err != nil {
+			log.Fatalf("replacing existing JSON file with new generated output: %v", err)
+		}
+	case "rss":
+		var cs []challenge
+		dec := json.NewDecoder(os.Stdin)
+		if err := dec.Decode(&cs); err != nil {
+			log.Fatalf("error reading JSON: %v", err)
+		}
+		if err := challenges(cs).emitRssFeed(os.Stdout); err != nil {
+			log.Fatalf("error writing RSS: %v", err)
+		}
+	default:
+		log.Fatalf("unknown argument %q", flag.Arg(0))
 	}
 }
