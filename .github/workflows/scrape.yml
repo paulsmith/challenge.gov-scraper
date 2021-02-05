@@ -35,7 +35,9 @@ jobs:
           run: |-
               go build -o scraper
               ./scraper json challenges.json
-              ./scraper rss challenges.json > challenges.rss
+              if git ls-files -m | grep -q challenges.json; then
+                ./scraper rss challenges.json > challenges.rss
+              fi
         - name: Commit and push if changed
           run: |-
               git config user.name "Automated"
