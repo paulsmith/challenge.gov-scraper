@@ -36,7 +36,7 @@ jobs:
               go build -o scraper
               ./scraper json challenges.json
               if git ls-files -m | grep -q challenges.json; then
-                ./scraper rss challenges.json > challenges.rss
+                ./scraper rss challenges.json > public/challenges.rss
               fi
         - name: Commit and push if changed
           run: |-
@@ -46,3 +46,8 @@ jobs:
               timestamp=$(date -u)
               git commit -m "Updated challenges: ${timestamp}" || exit 0
               git push
+        - name: Deploy
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./public
