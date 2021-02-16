@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 09 Feb 2021 08:35:13 UTC</pubDate>
-		<item>
-			<title>AI ATAC 3 Challenge: Efficiency &amp; Effectiveness Afforded by Security Orchestration &amp; Automated Response (SOAR) Capabilities · U.S. Navy</title>
-			<link>https://www.challenge.gov/challenge/AI-ATAC-3-challenge/</link>
-			<description>Summary: Artificial Intelligence SOAR Tools for Security Operations Center (SOC) Automation&#xA;&#xA;Deadline: 2021-02-12 17:00:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/AI-ATAC-3-challenge/</guid>
-		</item>
+		<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
 		<item>
 			<title>Mad Hacks: Fury Code · National Security Innovation Network</title>
 			<link>http://furycode.us/signup</link>
@@ -104,6 +97,20 @@
 			<guid>https://www.challenge.gov/challenge/nih-prize-for-enhancing-faculty-gender-diversity/</guid>
 		</item>
 		<item>
+			<title>Community College Innovation Challenge · National Science Foundation </title>
+			<link>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</link>
+			<description>Summary: Seeking community college student innovators to develop STEM solutions to real-world problems &#xA;&#xA;Deadline: 2021-04-20 23:59:00 -0400 -0400</description>
+			<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</guid>
+		</item>
+		<item>
+			<title>Cleaner Indoor Air During Wildfires · U.S. Environmental Protection Agency</title>
+			<link>https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12e7cec946c</link>
+			<description>Summary: Seeking innovative solutions for reducing indoor air pollution due to wildfire smoke and high pollution events&#xA;&#xA;Deadline: 2021-05-17 23:59:00 -0400 -0400</description>
+			<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
+			<guid>https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12e7cec946c</guid>
+		</item>
+		<item>
 			<title>Differential Privacy Temporal Map Challenge · Department of Commerce - National Institute of Standards and Technology, Public Safety Communications Research (PSCR) Division</title>
 			<link>https://www.challenge.gov/challenge/differential-privacy-temporal-map-challenge/</link>
 			<description>Summary: Help public safety agencies share data while protecting privacy.&#xA;&#xA;Deadline: 2021-05-17 19:59:00 -0400 -0400</description>
@@ -148,7 +155,7 @@
 		<item>
 			<title>Deep Space Food Challenge Phase 1 · NASA</title>
 			<link>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</link>
-			<description>Summary: Help Feed the Next Generation of Space Explorers!&#xA;&#xA;Deadline: 2021-07-31 18:00:00 -0400 -0400</description>
+			<description>Summary: Help Feed the Next Generation of Space Explorers!&#xA;&#xA;Deadline: 2021-07-30 18:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</guid>
 		</item>

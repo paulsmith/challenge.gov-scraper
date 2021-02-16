@@ -1,13 +1,5 @@
 [
 	{
-		"name": "AI ATAC 3 Challenge: Efficiency \u0026 Effectiveness Afforded by Security Orchestration \u0026 Automated Response (SOAR) Capabilities",
-		"agency": "U.S. Navy",
-		"summary": "Artificial Intelligence SOAR Tools for Security Operations Center (SOC) Automation",
-		"deadline": "2021-02-12T17:00:00-05:00",
-		"details_url": "https://www.challenge.gov/challenge/AI-ATAC-3-challenge/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "Mad Hacks: Fury Code",
 		"agency": "National Security Innovation Network",
 		"summary": "Explore solutions for the future of vehicle cybersecurity.",
@@ -112,6 +104,22 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "Community College Innovation Challenge",
+		"agency": "National Science Foundation ",
+		"summary": "Seeking community college student innovators to develop STEM solutions to real-world problems ",
+		"deadline": "2021-04-20T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/",
+		"pub_date": "2021-02-16T16:51:29.42654767Z"
+	},
+	{
+		"name": "Cleaner Indoor Air During Wildfires",
+		"agency": "U.S. Environmental Protection Agency",
+		"summary": "Seeking innovative solutions for reducing indoor air pollution due to wildfire smoke and high pollution events",
+		"deadline": "2021-05-17T23:59:00-04:00",
+		"details_url": "https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12e7cec946c",
+		"pub_date": "2021-02-16T16:51:29.42654767Z"
+	},
+	{
 		"name": "Differential Privacy Temporal Map Challenge",
 		"agency": "Department of Commerce - National Institute of Standards and Technology, Public Safety Communications Research (PSCR) Division",
 		"summary": "Help public safety agencies share data while protecting privacy.",
@@ -163,7 +171,7 @@
 		"name": "Deep Space Food Challenge Phase 1",
 		"agency": "NASA",
 		"summary": "Help Feed the Next Generation of Space Explorers!",
-		"deadline": "2021-07-31T18:00:00-04:00",
+		"deadline": "2021-07-30T18:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
