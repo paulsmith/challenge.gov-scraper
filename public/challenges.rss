@@ -4,28 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
-		<item>
-			<title>Mad Hacks: Fury Code · National Security Innovation Network</title>
-			<link>http://furycode.us/signup</link>
-			<description>Summary: Explore solutions for the future of vehicle cybersecurity.&#xA;&#xA;Deadline: 2021-02-20 03:00:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>http://furycode.us/signup</guid>
-		</item>
-		<item>
-			<title>Blazing New Trails for Community Based Direct Support Professionals · Department of Health and Humans Services - Administration for Community Living</title>
-			<link>https://www.challenge.gov/challenge/blazing-new-trails-for-community-based-direct-support-professionals/</link>
-			<description>Summary: Innovations to Transform the Direct Support Professionals Workforce&#xA;&#xA;Deadline: 2021-02-22 23:59:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/blazing-new-trails-for-community-based-direct-support-professionals/</guid>
-		</item>
-		<item>
-			<title>EmPOWER Air Data Challenge  · U.S. Environmental Protection Agency</title>
-			<link>https://www.challenge.gov/challenge/empower-air-data-challenge-2021/</link>
-			<description>Summary: Developing Innovative Analyses Using Emissions and Environmental Monitoring Data&#xA;&#xA;Deadline: 2021-02-22 23:59:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/empower-air-data-challenge-2021/</guid>
-		</item>
+		<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
 		<item>
 			<title>Honey, I Shrunk the NASA Payload, The Sequel · NASA</title>
 			<link>https://www.herox.com/NASAPayload2</link>
@@ -46,6 +25,13 @@
 			<description>Summary: NASA needs a Ground Control Station software for small unmanned aircraft systems that can be safely used for live flight...&#xA;&#xA;Deadline: 2021-03-01 08:00:00 -0500 -0500</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series</guid>
+		</item>
+		<item>
+			<title>2021 HUD Secretary&#39;s Awards for Public-Philanthropic Partnerships · U.S. Department of Housing and Urban Development</title>
+			<link>https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html</link>
+			<description>Summary: Recognizing excellence in partnerships that have transformed relationships between sectors and led to measurable benefits in housing &amp; community development...&#xA;&#xA;Deadline: 2021-03-01 23:59:00 -0500 -0500</description>
+			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
+			<guid>https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html</guid>
 		</item>
 		<item>
 			<title>More Water Less Concentrate · U.S. Department of the Interior - Bureau of Reclamation</title>
@@ -102,6 +88,13 @@
 			<description>Summary: Seeking community college student innovators to develop STEM solutions to real-world problems &#xA;&#xA;Deadline: 2021-04-20 23:59:00 -0400 -0400</description>
 			<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</guid>
+		</item>
+		<item>
+			<title>Protect the Herd Challenge Phase 1 · US Department of Agriculture (USDA), Agricultural Research Service</title>
+			<link>https://www.cwdchallenge.com/</link>
+			<description>Summary: A Live Animal Test for Chronic Wasting Disease&#xA;&#xA;Deadline: 2021-04-23 23:50:00 -0400 -0400</description>
+			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
+			<guid>https://www.cwdchallenge.com/</guid>
 		</item>
 		<item>
 			<title>Cleaner Indoor Air During Wildfires · U.S. Environmental Protection Agency</title>
