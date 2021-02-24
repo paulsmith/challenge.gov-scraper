@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
-		<item>
-			<title>Honey, I Shrunk the NASA Payload, The Sequel · NASA</title>
-			<link>https://www.herox.com/NASAPayload2</link>
-			<description>Summary: This challenge offers the 14 winning teams of Phase 1 the opportunity to build their teams and work with NASA...&#xA;&#xA;Deadline: 2021-02-23 08:00:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.herox.com/NASAPayload2</guid>
-		</item>
+		<pubDate>Wed, 24 Feb 2021 22:29:47 UTC</pubDate>
 		<item>
 			<title>NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020) · Department of Health and Human Services - National Institutes of Health</title>
 			<link>https://ncats.nih.gov/aspire/2020Challenge</link>
@@ -95,6 +88,13 @@
 			<description>Summary: A Live Animal Test for Chronic Wasting Disease&#xA;&#xA;Deadline: 2021-04-23 23:50:00 -0400 -0400</description>
 			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
 			<guid>https://www.cwdchallenge.com/</guid>
+		</item>
+		<item>
+			<title>American-Made Challenges E-ROBOT Prize · Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/</link>
+			<description>Summary: Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT)&#xA;&#xA;Deadline: 2021-05-12 17:00:00 -0400 -0400</description>
+			<pubDate>Wed, 24 Feb 2021 22:29:47 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/</guid>
 		</item>
 		<item>
 			<title>Cleaner Indoor Air During Wildfires · U.S. Environmental Protection Agency</title>

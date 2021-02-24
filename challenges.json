@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Honey, I Shrunk the NASA Payload, The Sequel",
-		"agency": "NASA",
-		"summary": "This challenge offers the 14 winning teams of Phase 1 the opportunity to build their teams and work with NASA...",
-		"deadline": "2021-02-23T08:00:00-05:00",
-		"details_url": "https://www.herox.com/NASAPayload2",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020)",
 		"agency": "Department of Health and Human Services - National Institutes of Health",
 		"summary": "Development of a Comprehensive Integrated Platform for Translational Innovation in Pain, Opioid Use Disorder and Overdose",
@@ -102,6 +94,14 @@
 		"deadline": "2021-04-23T23:50:00-04:00",
 		"details_url": "https://www.cwdchallenge.com/",
 		"pub_date": "2021-02-23T06:34:31.277572201Z"
+	},
+	{
+		"name": "American-Made Challenges E-ROBOT Prize",
+		"agency": "Department of Energy",
+		"summary": "Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT)",
+		"deadline": "2021-05-12T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/",
+		"pub_date": "2021-02-24T22:29:47.352948851Z"
 	},
 	{
 		"name": "Cleaner Indoor Air During Wildfires",
