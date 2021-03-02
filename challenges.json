@@ -1,29 +1,5 @@
 [
 	{
-		"name": "NCATS 2020 ASPIRE Reduction-to-Practice Challenge (ASPIRE 2020)",
-		"agency": "Department of Health and Human Services - National Institutes of Health",
-		"summary": "Development of a Comprehensive Integrated Platform for Translational Innovation in Pain, Opioid Use Disorder and Overdose",
-		"deadline": "2021-02-28T17:00:00-05:00",
-		"details_url": "https://ncats.nih.gov/aspire/2020Challenge",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "Unmanned Aircraft Systems Ground Control Station Software Challenge Series",
-		"agency": "NASA",
-		"summary": "NASA needs a Ground Control Station software for small unmanned aircraft systems that can be safely used for live flight...",
-		"deadline": "2021-03-01T08:00:00-05:00",
-		"details_url": "https://www.nasa.gov/unmanned-aircraft-ground-control-challenge-series",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "2021 HUD Secretary's Awards for Public-Philanthropic Partnerships",
-		"agency": "U.S. Department of Housing and Urban Development",
-		"summary": "Recognizing excellence in partnerships that have transformed relationships between sectors and led to measurable benefits in housing \u0026 community development...",
-		"deadline": "2021-03-01T23:59:00-05:00",
-		"details_url": "https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html",
-		"pub_date": "2021-02-23T06:34:31.277572201Z"
-	},
-	{
 		"name": "More Water Less Concentrate",
 		"agency": "U.S. Department of the Interior - Bureau of Reclamation",
 		"summary": "Discovering solutions to reduce the volume of concentrate from inland desalination plants.",
@@ -88,7 +64,7 @@
 		"pub_date": "2021-02-16T16:51:29.42654767Z"
 	},
 	{
-		"name": "Protect the Herd Challenge Phase 1",
+		"name": "Detect to Protect Challenge Phase 1",
 		"agency": "US Department of Agriculture (USDA), Agricultural Research Service",
 		"summary": "A Live Animal Test for Chronic Wasting Disease",
 		"deadline": "2021-04-23T23:50:00-04:00",
