@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 02 Mar 2021 06:34:42 UTC</pubDate>
-		<item>
-			<title>More Water Less Concentrate · U.S. Department of the Interior - Bureau of Reclamation</title>
-			<link>http://www.morewaterlessconcentrate.org/</link>
-			<description>Summary: Discovering solutions to reduce the volume of concentrate from inland desalination plants.&#xA;&#xA;Deadline: 2021-03-03 19:00:00 -0500 -0500</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>http://www.morewaterlessconcentrate.org/</guid>
-		</item>
+		<pubDate>Thu, 04 Mar 2021 12:42:01 UTC</pubDate>
 		<item>
 			<title>Promoting Pediatric Primary Prevention (P4 Challenge) · Department of Health and Human Services - Health Resources and Services Administration, Maternal and Child Health Bureau</title>
 			<link>https://www.challenge.gov/challenge/promoting-pediatric-primary-prevention/</link>
@@ -116,6 +109,13 @@
 			<description>Summary: Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.herox.com/WaterAmericasCrops</guid>
+		</item>
+		<item>
+			<title>Imperfection Detection: Detect Me If You Can · Department of the Interior - Bureau of Reclamation</title>
+			<link>https://www.herox.com/ImperfectionDetection</link>
+			<description>Summary: Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 04 Mar 2021 12:42:00 UTC</pubDate>
+			<guid>https://www.herox.com/ImperfectionDetection</guid>
 		</item>
 		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
