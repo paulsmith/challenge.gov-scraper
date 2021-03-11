@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 04 Mar 2021 20:31:59 UTC</pubDate>
+		<pubDate>Thu, 11 Mar 2021 02:42:29 UTC</pubDate>
 		<item>
 			<title>2021 HUD Secretary&#39;s Awards for Public-Philanthropic Partnerships · U.S. Department of Housing and Urban Development</title>
 			<link>https://www.huduser.gov/portal/about/Pub_Phil_2021_Intro.html</link>
@@ -39,6 +39,13 @@
 			<description>Summary: Enabling Network Architecture for Collaborative Technologies&#xA;&#xA;Deadline: 2021-04-02 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.ENACTChallenge.com</guid>
+		</item>
+		<item>
+			<title>Beat the Blaze · National Security Innovation Network</title>
+			<link>http://beattheblaze.us/signup</link>
+			<description>Summary: Only you can hack wildfires&#xA;&#xA;Deadline: 2021-04-09 20:00:00 -0400 -0400</description>
+			<pubDate>Thu, 11 Mar 2021 02:42:29 UTC</pubDate>
+			<guid>http://beattheblaze.us/signup</guid>
 		</item>
 		<item>
 			<title>2021 Solar Decathlon Design Challenge · Department of Energy - Energy Programs</title>
