@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 16 Mar 2021 06:35:21 UTC</pubDate>
+		<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
 		<item>
 			<title>Watts on the Moon - Phase 1 · National Aeronautics and Space Administration (NASA)</title>
 			<link>https://www.challenge.gov/challenge/watts-on-the-moon-phase-1/</link>
@@ -130,6 +130,13 @@
 			<description>Summary: Help Feed the Next Generation of Space Explorers!&#xA;&#xA;Deadline: 2021-07-30 18:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</guid>
+		</item>
+		<item>
+			<title>Automated Maintenance of Protection Systems Challenge · Department of the Interior - Bureau of Reclamation</title>
+			<link>https://www.freelancer.com/reclamation</link>
+			<description>Summary: Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.&#xA;&#xA;Deadline: 2021-09-03 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
+			<guid>https://www.freelancer.com/reclamation</guid>
 		</item>
 		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
