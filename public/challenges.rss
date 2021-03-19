@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
+		<pubDate>Fri, 19 Mar 2021 20:32:50 UTC</pubDate>
 		<item>
 			<title>Watts on the Moon - Phase 1 · National Aeronautics and Space Administration (NASA)</title>
 			<link>https://www.challenge.gov/challenge/watts-on-the-moon-phase-1/</link>
@@ -34,6 +34,13 @@
 			<guid>http://beattheblaze.us/signup</guid>
 		</item>
 		<item>
+			<title>xTechSBIR Waveform Challenge · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xtechsbir-waveform-challenge/</link>
+			<description>Summary: Small business challenge to help the Army develop a software defined radio architecture to decouple hardware &amp; software-based waveforms&#xA;&#xA;Deadline: 2021-04-13 08:00:00 -0400 -0400</description>
+			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xtechsbir-waveform-challenge/</guid>
+		</item>
+		<item>
 			<title>2021 Solar Decathlon Design Challenge · Department of Energy - Energy Programs</title>
 			<link>https://www.challenge.gov/challenge/2021-solar-decathlon-design-challenge/</link>
 			<description>Summary: Want to design buildings that help address the most pressing needs of our time? Love the thrill of competing with...&#xA;&#xA;Deadline: 2021-04-15 17:00:00 -0400 -0400</description>
@@ -53,6 +60,13 @@
 			<description>Summary: Seeking community college student innovators to develop STEM solutions to real-world problems &#xA;&#xA;Deadline: 2021-04-20 23:59:00 -0400 -0400</description>
 			<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</guid>
+		</item>
+		<item>
+			<title>Mask Innovation Challenge · Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA)</title>
+			<link>https://www.challenge.gov/challenge/mask-innovation-challenge/</link>
+			<description>Summary: Building Tomorrow’s Mask&#xA;&#xA;Deadline: 2021-04-21 17:00:00 -0400 -0400</description>
+			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/mask-innovation-challenge/</guid>
 		</item>
 		<item>
 			<title>Detect to Protect Challenge Phase 1 · US Department of Agriculture (USDA), Agricultural Research Service</title>
@@ -81,6 +95,13 @@
 			<description>Summary: Help public safety agencies share data while protecting privacy.&#xA;&#xA;Deadline: 2021-05-17 19:59:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/differential-privacy-temporal-map-challenge/</guid>
+		</item>
+		<item>
+			<title>NASA Image Co-Registration Code Challenge · NASA</title>
+			<link>https://www.topcoder.com/challenges/76c6fb0e-0de3-4d60-b472-37e238e14fc4</link>
+			<description>Summary: Help us find where the Eagle has landed, Again!!&#xA;&#xA;Deadline: 2021-05-19 17:00:00 -0400 -0400</description>
+			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
+			<guid>https://www.topcoder.com/challenges/76c6fb0e-0de3-4d60-b472-37e238e14fc4</guid>
 		</item>
 		<item>
 			<title>2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge · Department of Health and Human Services, National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</title>

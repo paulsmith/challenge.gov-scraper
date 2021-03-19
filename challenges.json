@@ -32,6 +32,14 @@
 		"pub_date": "2021-03-11T02:42:29.38967331Z"
 	},
 	{
+		"name": "xTechSBIR Waveform Challenge",
+		"agency": "Department of Defense - U.S. Army",
+		"summary": "Small business challenge to help the Army develop a software defined radio architecture to decouple hardware \u0026 software-based waveforms",
+		"deadline": "2021-04-13T08:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/xtechsbir-waveform-challenge/",
+		"pub_date": "2021-03-19T20:32:49.934096191Z"
+	},
+	{
 		"name": "2021 Solar Decathlon Design Challenge",
 		"agency": "Department of Energy - Energy Programs",
 		"summary": "Want to design buildings that help address the most pressing needs of our time? Love the thrill of competing with...",
@@ -54,6 +62,14 @@
 		"deadline": "2021-04-20T23:59:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/",
 		"pub_date": "2021-02-16T16:51:29.42654767Z"
+	},
+	{
+		"name": "Mask Innovation Challenge",
+		"agency": "Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA)",
+		"summary": "Building Tomorrow’s Mask",
+		"deadline": "2021-04-21T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/mask-innovation-challenge/",
+		"pub_date": "2021-03-19T20:32:49.934096191Z"
 	},
 	{
 		"name": "Detect to Protect Challenge Phase 1",
@@ -86,6 +102,14 @@
 		"deadline": "2021-05-17T19:59:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/differential-privacy-temporal-map-challenge/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "NASA Image Co-Registration Code Challenge",
+		"agency": "NASA",
+		"summary": "Help us find where the Eagle has landed, Again!!",
+		"deadline": "2021-05-19T17:00:00-04:00",
+		"details_url": "https://www.topcoder.com/challenges/76c6fb0e-0de3-4d60-b472-37e238e14fc4",
+		"pub_date": "2021-03-19T20:32:49.934096191Z"
 	},
 	{
 		"name": "2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge",
