@@ -1,21 +1,5 @@
 [
 	{
-		"name": "Watts on the Moon - Phase 1",
-		"agency": "National Aeronautics and Space Administration (NASA)",
-		"summary": "  ",
-		"deadline": "2021-03-25T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/watts-on-the-moon-phase-1/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "NHLBI Hope for Sickle Cell Disease Challenge",
-		"agency": "Department of Health and Human Services - National Institute of Health",
-		"summary": "Foster awareness of Sickle Cell Disease",
-		"deadline": "2021-03-26T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/NHLBI-hope-for-sickle-cell-disease-challenge/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "ENACT Challenge",
 		"agency": "Department of Transportation - Federal Aviation Administration (FAA)",
 		"summary": "Enabling Network Architecture for Collaborative Technologies",
@@ -86,6 +70,14 @@
 		"deadline": "2021-05-12T17:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/",
 		"pub_date": "2021-02-24T22:29:47.352948851Z"
+	},
+	{
+		"name": "xTechGlobal AI Challenge",
+		"agency": "Department of Defense - U.S. Army",
+		"summary": "Army has launched its first global tri-service competition, seeking innovators to identify technologies providing robust, AI-enabled capabilities. ",
+		"deadline": "2021-05-12T09:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/xtechglobal-ai-challenge/",
+		"pub_date": "2021-03-29T18:24:39.722910044Z"
 	},
 	{
 		"name": "Cleaner Indoor Air During Wildfires",

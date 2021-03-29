@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 19 Mar 2021 20:32:50 UTC</pubDate>
-		<item>
-			<title>Watts on the Moon - Phase 1 · National Aeronautics and Space Administration (NASA)</title>
-			<link>https://www.challenge.gov/challenge/watts-on-the-moon-phase-1/</link>
-			<description>Summary:   &#xA;&#xA;Deadline: 2021-03-25 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/watts-on-the-moon-phase-1/</guid>
-		</item>
-		<item>
-			<title>NHLBI Hope for Sickle Cell Disease Challenge · Department of Health and Human Services - National Institute of Health</title>
-			<link>https://www.challenge.gov/challenge/NHLBI-hope-for-sickle-cell-disease-challenge/</link>
-			<description>Summary: Foster awareness of Sickle Cell Disease&#xA;&#xA;Deadline: 2021-03-26 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/NHLBI-hope-for-sickle-cell-disease-challenge/</guid>
-		</item>
+		<pubDate>Mon, 29 Mar 2021 18:24:40 UTC</pubDate>
 		<item>
 			<title>ENACT Challenge · Department of Transportation - Federal Aviation Administration (FAA)</title>
 			<link>https://www.ENACTChallenge.com</link>
@@ -81,6 +67,13 @@
 			<description>Summary: Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT)&#xA;&#xA;Deadline: 2021-05-12 17:00:00 -0400 -0400</description>
 			<pubDate>Wed, 24 Feb 2021 22:29:47 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/</guid>
+		</item>
+		<item>
+			<title>xTechGlobal AI Challenge · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xtechglobal-ai-challenge/</link>
+			<description>Summary: Army has launched its first global tri-service competition, seeking innovators to identify technologies providing robust, AI-enabled capabilities. &#xA;&#xA;Deadline: 2021-05-12 09:00:00 -0400 -0400</description>
+			<pubDate>Mon, 29 Mar 2021 18:24:39 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xtechglobal-ai-challenge/</guid>
 		</item>
 		<item>
 			<title>Cleaner Indoor Air During Wildfires · U.S. Environmental Protection Agency</title>
