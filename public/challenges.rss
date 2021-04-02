@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Mon, 29 Mar 2021 18:24:40 UTC</pubDate>
+		<pubDate>Fri, 02 Apr 2021 14:23:50 UTC</pubDate>
 		<item>
 			<title>ENACT Challenge · Department of Transportation - Federal Aviation Administration (FAA)</title>
 			<link>https://www.ENACTChallenge.com</link>
@@ -95,6 +95,13 @@
 			<description>Summary: Help us find where the Eagle has landed, Again!!&#xA;&#xA;Deadline: 2021-05-19 17:00:00 -0400 -0400</description>
 			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
 			<guid>https://www.topcoder.com/challenges/76c6fb0e-0de3-4d60-b472-37e238e14fc4</guid>
+		</item>
+		<item>
+			<title>Future-Scaping Our Skies · NASA</title>
+			<link>https://www.herox.com/FutureScaping</link>
+			<description>Summary: Mapping societal, economic, technological, environmental, political, and regulatory trends to the future of aviation&#xA;&#xA;Deadline: 2021-05-31 20:00:00 -0400 -0400</description>
+			<pubDate>Fri, 02 Apr 2021 14:23:50 UTC</pubDate>
+			<guid>https://www.herox.com/FutureScaping</guid>
 		</item>
 		<item>
 			<title>2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge · Department of Health and Human Services, National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</title>
