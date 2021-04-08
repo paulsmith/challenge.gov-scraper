@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 06 Apr 2021 04:24:21 UTC</pubDate>
+		<pubDate>Thu, 08 Apr 2021 04:24:18 UTC</pubDate>
 		<item>
 			<title>Beat the Blaze · National Security Innovation Network</title>
 			<link>http://beattheblaze.us/signup</link>
@@ -53,6 +53,13 @@
 			<description>Summary: A Live Animal Test for Chronic Wasting Disease&#xA;&#xA;Deadline: 2021-04-23 23:50:00 -0400 -0400</description>
 			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
 			<guid>https://www.cwdchallenge.com/</guid>
+		</item>
+		<item>
+			<title>NASA Spacesuit Detection Challenge · NASA</title>
+			<link>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</link>
+			<description>Summary: NASA is seeking novel solutions to label and identify spacesuit motions from conventional and readily available video and photographs.&#xA;&#xA;Deadline: 2021-04-30 08:59:00 -0400 -0400</description>
+			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
+			<guid>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</guid>
 		</item>
 		<item>
 			<title>American-Made Challenges E-ROBOT Prize · Department of Energy</title>
@@ -130,6 +137,20 @@
 			<description>Summary: Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Mar 2021 12:42:00 UTC</pubDate>
 			<guid>https://www.herox.com/ImperfectionDetection</guid>
+		</item>
+		<item>
+			<title>I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</link>
+			<description>Summary: NIDA challenges creative youth to make art that inspires others by demonstrating indigenous resilience to substance misuse. &#xA;&#xA;Deadline: 2021-07-07 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
+			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</guid>
+		</item>
+		<item>
+			<title>I Strengthen My Nation: American Indian and Alaska Native Community Projects Created by Youth to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</link>
+			<description>Summary: NIDA challenges creative youth to develop ideas for community projects that could decrease substance use and promote resilience. &#xA;&#xA;Deadline: 2021-07-07 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
+			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</guid>
 		</item>
 		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
