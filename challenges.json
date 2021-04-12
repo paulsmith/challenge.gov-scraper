@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Beat the Blaze",
-		"agency": "National Security Innovation Network",
-		"summary": "Only you can hack wildfires",
-		"deadline": "2021-04-09T20:00:00-04:00",
-		"details_url": "http://beattheblaze.us/signup",
-		"pub_date": "2021-03-11T02:42:29.38967331Z"
-	},
-	{
 		"name": "xTechSBIR Waveform Challenge",
 		"agency": "Department of Defense - U.S. Army",
 		"summary": "Small business challenge to help the Army develop a software defined radio architecture to decouple hardware \u0026 software-based waveforms",
