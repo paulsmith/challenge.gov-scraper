@@ -144,12 +144,28 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "See a Bloom, Give it Room Urban Waters Edition – Harmful Algal Bloom Video Challenge",
+		"agency": "Environmental Protection Agency – Region 7",
+		"summary": "Make a video teaching people 1) how to spot harmful algal blooms and 2) how to be safe around them....",
+		"deadline": "2021-08-01T23:59:00-04:00",
+		"details_url": "https://www.epa.gov/innovation/harmful-algal-bloom-video-challenge",
+		"pub_date": "2021-04-22T12:24:30.596121843Z"
+	},
+	{
 		"name": "Automated Maintenance of Protection Systems Challenge",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.",
 		"deadline": "2021-09-03T23:59:00-04:00",
 		"details_url": "https://www.freelancer.com/reclamation",
 		"pub_date": "2021-03-18T04:39:52.57962256Z"
+	},
+	{
+		"name": "Mapping Patient Journeys in Drug Addiction Treatment",
+		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
+		"summary": "Mapping the obstacles patients face in getting treatment for drug addiction",
+		"deadline": "2021-09-22T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/",
+		"pub_date": "2021-04-22T12:24:30.596121843Z"
 	},
 	{
 		"name": "Streamflow Forecast Rodeo",
