@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 22 Apr 2021 04:24:18 UTC</pubDate>
+		<pubDate>Thu, 22 Apr 2021 12:24:31 UTC</pubDate>
 		<item>
 			<title>NASA Spacesuit Detection Challenge · NASA</title>
 			<link>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</link>
@@ -132,11 +132,25 @@
 			<guid>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</guid>
 		</item>
 		<item>
+			<title>See a Bloom, Give it Room Urban Waters Edition – Harmful Algal Bloom Video Challenge · Environmental Protection Agency – Region 7</title>
+			<link>https://www.epa.gov/innovation/harmful-algal-bloom-video-challenge</link>
+			<description>Summary: Make a video teaching people 1) how to spot harmful algal blooms and 2) how to be safe around them....&#xA;&#xA;Deadline: 2021-08-01 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Apr 2021 12:24:30 UTC</pubDate>
+			<guid>https://www.epa.gov/innovation/harmful-algal-bloom-video-challenge</guid>
+		</item>
+		<item>
 			<title>Automated Maintenance of Protection Systems Challenge · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.freelancer.com/reclamation</link>
 			<description>Summary: Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.&#xA;&#xA;Deadline: 2021-09-03 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
 			<guid>https://www.freelancer.com/reclamation</guid>
+		</item>
+		<item>
+			<title>Mapping Patient Journeys in Drug Addiction Treatment · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</link>
+			<description>Summary: Mapping the obstacles patients face in getting treatment for drug addiction&#xA;&#xA;Deadline: 2021-09-22 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Apr 2021 12:24:30 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</guid>
 		</item>
 		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
