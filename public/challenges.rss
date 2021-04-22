@@ -4,34 +4,20 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 20 Apr 2021 06:24:15 UTC</pubDate>
-		<item>
-			<title>Community College Innovation Challenge · National Science Foundation </title>
-			<link>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</link>
-			<description>Summary: Seeking community college student innovators to develop STEM solutions to real-world problems &#xA;&#xA;Deadline: 2021-04-20 23:59:00 -0400 -0400</description>
-			<pubDate>Tue, 16 Feb 2021 16:51:29 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/community-college-innovation-challenge-2021/</guid>
-		</item>
-		<item>
-			<title>Mask Innovation Challenge · Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA)</title>
-			<link>https://www.challenge.gov/challenge/mask-innovation-challenge/</link>
-			<description>Summary: Building Tomorrow’s Mask&#xA;&#xA;Deadline: 2021-04-21 17:00:00 -0400 -0400</description>
-			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/mask-innovation-challenge/</guid>
-		</item>
-		<item>
-			<title>Detect to Protect Challenge Phase 1 · US Department of Agriculture (USDA), Agricultural Research Service</title>
-			<link>https://www.cwdchallenge.com/</link>
-			<description>Summary: A Live Animal Test for Chronic Wasting Disease&#xA;&#xA;Deadline: 2021-04-23 23:50:00 -0400 -0400</description>
-			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
-			<guid>https://www.cwdchallenge.com/</guid>
-		</item>
+		<pubDate>Thu, 22 Apr 2021 04:24:18 UTC</pubDate>
 		<item>
 			<title>NASA Spacesuit Detection Challenge · NASA</title>
 			<link>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</link>
 			<description>Summary: NASA is seeking novel solutions to label and identify spacesuit motions from conventional and readily available video and photographs.&#xA;&#xA;Deadline: 2021-04-30 08:59:00 -0400 -0400</description>
 			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
 			<guid>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</guid>
+		</item>
+		<item>
+			<title>Detect to Protect Challenge Phase 1 · US Department of Agriculture (USDA), Agricultural Research Service</title>
+			<link>https://www.cwdchallenge.com/</link>
+			<description>Summary: A Live Animal Test for Chronic Wasting Disease&#xA;&#xA;Deadline: 2021-05-07 23:50:00 -0400 -0400</description>
+			<pubDate>Tue, 23 Feb 2021 06:34:31 UTC</pubDate>
+			<guid>https://www.cwdchallenge.com/</guid>
 		</item>
 		<item>
 			<title>American-Made Challenges E-ROBOT Prize · Department of Energy</title>
@@ -46,6 +32,13 @@
 			<description>Summary: Army has launched its first global tri-service competition, seeking innovators to identify technologies providing robust, AI-enabled capabilities. &#xA;&#xA;Deadline: 2021-05-12 09:00:00 -0400 -0400</description>
 			<pubDate>Mon, 29 Mar 2021 18:24:39 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/xtechglobal-ai-challenge/</guid>
+		</item>
+		<item>
+			<title>xTech Innovation Combine Advanced Energy Storage Challenge · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xtech-innovation-combine-challenge/</link>
+			<description>Summary: The xTech Innovation Combine aims to accelerate integration of technology prototypes crucial for Army capability gaps into military platforms. &#xA;&#xA;Deadline: 2021-05-14 20:00:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Apr 2021 04:24:18 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xtech-innovation-combine-challenge/</guid>
 		</item>
 		<item>
 			<title>Cleaner Indoor Air During Wildfires · U.S. Environmental Protection Agency</title>
