@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Agile Robotics for Industrial Automation Competition (ARIAC)",
+		"agency": "National Institute of Standards and Technology (NIST) ",
+		"summary": "Build your own robot control software and win up to $10,000!",
+		"deadline": "2021-04-23T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/airac-2021/",
+		"pub_date": "2021-04-23T18:25:07.278033086Z"
+	},
+	{
 		"name": "NASA Spacesuit Detection Challenge",
 		"agency": "NASA",
 		"summary": "NASA is seeking novel solutions to label and identify spacesuit motions from conventional and readily available video and photographs.",
