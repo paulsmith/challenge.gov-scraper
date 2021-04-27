@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Agile Robotics for Industrial Automation Competition (ARIAC)",
-		"agency": "National Institute of Standards and Technology (NIST) ",
-		"summary": "Build your own robot control software and win up to $10,000!",
-		"deadline": "2021-04-23T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/ariac-2021/",
-		"pub_date": "2021-04-23T22:24:07.651204649Z"
-	},
-	{
 		"name": "NASA Spacesuit Detection Challenge",
 		"agency": "NASA",
 		"summary": "NASA is seeking novel solutions to label and identify spacesuit motions from conventional and readily available video and photographs.",
@@ -88,14 +80,6 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
-		"name": "EcoTox TARGET Challenge",
-		"agency": "Environmental Protection Agency",
-		"summary": "Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms",
-		"deadline": "2021-06-15T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/ecotox-challenge/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "Break the Ice Phase 1",
 		"agency": "NASA",
 		"summary": "NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...",
@@ -144,6 +128,14 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "Water Toxicity Sensor Challenge",
+		"agency": "Environmental Protection Agency ",
+		"summary": "Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity",
+		"deadline": "2021-07-26T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/",
+		"pub_date": "2021-04-27T06:24:12.425608332Z"
+	},
+	{
 		"name": "Deep Space Food Challenge Phase 1",
 		"agency": "NASA",
 		"summary": "Help Feed the Next Generation of Space Explorers!",
@@ -190,6 +182,22 @@
 		"deadline": "2021-09-30T00:00:00-04:00",
 		"details_url": "https://www.subtchallenge.com/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "EcoTox TARGET Challenge",
+		"agency": "Environmental Protection Agency",
+		"summary": "Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms",
+		"deadline": "2021-12-03T23:59:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/ecotox-challenge/",
+		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "Engaging Procurement Ideas to Consider (EPIC) Campaign",
+		"agency": "Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)",
+		"summary": "Help shape plans that support the President’s Management Agenda (PMA) and other key government-wide acquisition priorities and initiatives",
+		"deadline": "2021-12-31T23:59:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/epic-campaign/",
+		"pub_date": "2021-04-27T06:24:12.425608332Z"
 	},
 	{
 		"name": "NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III ",

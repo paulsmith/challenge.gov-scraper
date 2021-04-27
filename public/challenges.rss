@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 23 Apr 2021 22:24:08 UTC</pubDate>
-		<item>
-			<title>Agile Robotics for Industrial Automation Competition (ARIAC) · National Institute of Standards and Technology (NIST) </title>
-			<link>https://www.challenge.gov/challenge/ariac-2021/</link>
-			<description>Summary: Build your own robot control software and win up to $10,000!&#xA;&#xA;Deadline: 2021-04-23 23:59:00 -0400 -0400</description>
-			<pubDate>Fri, 23 Apr 2021 22:24:07 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/ariac-2021/</guid>
-		</item>
+		<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 		<item>
 			<title>NASA Spacesuit Detection Challenge · NASA</title>
 			<link>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</link>
@@ -83,13 +76,6 @@
 			<guid>https://www.nibib.nih.gov/training-careers/undergraduate-graduate/design-biomedical-undergraduate-teams-debut-challenge</guid>
 		</item>
 		<item>
-			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
-			<link>https://www.challenge.gov/challenge/ecotox-challenge/</link>
-			<description>Summary: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms&#xA;&#xA;Deadline: 2021-06-15 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/ecotox-challenge/</guid>
-		</item>
-		<item>
 			<title>Break the Ice Phase 1 · NASA</title>
 			<link>https://www.challenge.gov/challenge/break-the-ice-phase1/</link>
 			<description>Summary: NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...&#xA;&#xA;Deadline: 2021-06-18 23:59:00 -0400 -0400</description>
@@ -132,6 +118,13 @@
 			<guid>https://www.challenge.gov/challenge/synthetic-health-data-challenge/</guid>
 		</item>
 		<item>
+			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
+			<link>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</link>
+			<description>Summary: Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity&#xA;&#xA;Deadline: 2021-07-26 23:59:00 -0400 -0400</description>
+			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</guid>
+		</item>
+		<item>
 			<title>Deep Space Food Challenge Phase 1 · NASA</title>
 			<link>https://www.challenge.gov/challenge/deep-space-food-challenge-phase1/</link>
 			<description>Summary: Help Feed the Next Generation of Space Explorers!&#xA;&#xA;Deadline: 2021-07-30 18:00:00 -0400 -0400</description>
@@ -172,6 +165,20 @@
 			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.subtchallenge.com/</guid>
+		</item>
+		<item>
+			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
+			<link>https://www.challenge.gov/challenge/ecotox-challenge/</link>
+			<description>Summary: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms&#xA;&#xA;Deadline: 2021-12-03 23:59:00 -0500 -0500</description>
+			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/ecotox-challenge/</guid>
+		</item>
+		<item>
+			<title>Engaging Procurement Ideas to Consider (EPIC) Campaign · Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)</title>
+			<link>https://www.challenge.gov/challenge/epic-campaign/</link>
+			<description>Summary: Help shape plans that support the President’s Management Agenda (PMA) and other key government-wide acquisition priorities and initiatives&#xA;&#xA;Deadline: 2021-12-31 23:59:00 -0500 -0500</description>
+			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/epic-campaign/</guid>
 		</item>
 		<item>
 			<title>NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III  · Department of Health and Human Services - National Institutes of Health</title>
