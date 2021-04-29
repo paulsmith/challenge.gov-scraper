@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
+		<pubDate>Thu, 29 Apr 2021 22:24:04 UTC</pubDate>
 		<item>
 			<title>NASA Spacesuit Detection Challenge · NASA</title>
 			<link>https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88</link>
@@ -60,6 +60,13 @@
 			<description>Summary: Help us find where the Eagle has landed, Again!!&#xA;&#xA;Deadline: 2021-05-19 17:00:00 -0400 -0400</description>
 			<pubDate>Fri, 19 Mar 2021 20:32:49 UTC</pubDate>
 			<guid>https://www.topcoder.com/challenges/76c6fb0e-0de3-4d60-b472-37e238e14fc4</guid>
+		</item>
+		<item>
+			<title>xTechRCCTO AStRA · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xtechrccto-astra/</link>
+			<description>Summary: Seeking small businesses to deliver an innovative approach and prototype to compete for an award to accelerate military technology&#xA;&#xA;Deadline: 2021-05-25 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 29 Apr 2021 22:24:03 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xtechrccto-astra/</guid>
 		</item>
 		<item>
 			<title>Future-Scaping Our Skies · NASA</title>
