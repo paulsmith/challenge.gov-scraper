@@ -1,13 +1,5 @@
 [
 	{
-		"name": "NASA Spacesuit Detection Challenge",
-		"agency": "NASA",
-		"summary": "NASA is seeking novel solutions to label and identify spacesuit motions from conventional and readily available video and photographs.",
-		"deadline": "2021-04-30T08:59:00-04:00",
-		"details_url": "https://www.topcoder.com/challenges/116fc3d9-a4e0-4a93-8ef1-a075ae16ee88",
-		"pub_date": "2021-04-08T04:24:17.889237535Z"
-	},
-	{
 		"name": "Detect to Protect Challenge Phase 1",
 		"agency": "US Department of Agriculture (USDA), Agricultural Research Service",
 		"summary": "A Live Animal Test for Chronic Wasting Disease",
@@ -110,6 +102,14 @@
 		"deadline": "2021-06-24T17:00:00-04:00",
 		"details_url": "https://www.herox.com/ImperfectionDetection",
 		"pub_date": "2021-03-04T12:42:00.938731215Z"
+	},
+	{
+		"name": "NIJ's Recidivism Forecasting Challenge",
+		"agency": "Department of Justice - National Institute of Justice",
+		"summary": "Challenging our nation’s brightest data minds to support successful reentry.   ",
+		"deadline": "2021-06-30T23:59:00-04:00",
+		"details_url": "https://nij.ojp.gov/funding/recidivism-forecasting-challenge",
+		"pub_date": "2021-05-03T16:24:43.884520007Z"
 	},
 	{
 		"name": "I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse",
