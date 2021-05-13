@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 11 May 2021 02:54:07 UTC</pubDate>
-		<item>
-			<title>American-Made Challenges E-ROBOT Prize · Department of Energy</title>
-			<link>https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/</link>
-			<description>Summary: Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT)&#xA;&#xA;Deadline: 2021-05-12 17:00:00 -0400 -0400</description>
-			<pubDate>Wed, 24 Feb 2021 22:29:47 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/</guid>
-		</item>
-		<item>
-			<title>xTechGlobal AI Challenge · Department of Defense - U.S. Army</title>
-			<link>https://www.challenge.gov/challenge/xtechglobal-ai-challenge/</link>
-			<description>Summary: Army has launched its first global tri-service competition, seeking innovators to identify technologies providing robust, AI-enabled capabilities. &#xA;&#xA;Deadline: 2021-05-12 09:00:00 -0400 -0400</description>
-			<pubDate>Mon, 29 Mar 2021 18:24:39 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/xtechglobal-ai-challenge/</guid>
-		</item>
+		<pubDate>Thu, 13 May 2021 06:44:25 UTC</pubDate>
 		<item>
 			<title>xTech Innovation Combine Advanced Energy Storage Challenge · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtech-innovation-combine-challenge/</link>
@@ -116,6 +102,13 @@
 			<description>Summary: Create and test novel solutions to further cultivate Synthea™ capabilities and the synthetic data it generates for healthcare and research...&#xA;&#xA;Deadline: 2021-07-13 17:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/synthetic-health-data-challenge/</guid>
+		</item>
+		<item>
+			<title>US Navy Challenge: Rapid Design Tool for Advanced Manufacturing · Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)</title>
+			<link>https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde</link>
+			<description>Summary: This challenge seeks a parametric design tool in the form of an executable file that will automatically generate the necessary...&#xA;&#xA;Deadline: 2021-07-13 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 13 May 2021 06:44:25 UTC</pubDate>
+			<guid>https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde</guid>
 		</item>
 		<item>
 			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
