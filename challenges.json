@@ -1,21 +1,5 @@
 [
 	{
-		"name": "American-Made Challenges E-ROBOT Prize",
-		"agency": "Department of Energy",
-		"summary": "Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT)",
-		"deadline": "2021-05-12T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/american-made-challenges-e-robot-prize/",
-		"pub_date": "2021-02-24T22:29:47.352948851Z"
-	},
-	{
-		"name": "xTechGlobal AI Challenge",
-		"agency": "Department of Defense - U.S. Army",
-		"summary": "Army has launched its first global tri-service competition, seeking innovators to identify technologies providing robust, AI-enabled capabilities. ",
-		"deadline": "2021-05-12T09:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/xtechglobal-ai-challenge/",
-		"pub_date": "2021-03-29T18:24:39.722910044Z"
-	},
-	{
 		"name": "xTech Innovation Combine Advanced Energy Storage Challenge",
 		"agency": "Department of Defense - U.S. Army",
 		"summary": "The xTech Innovation Combine aims to accelerate integration of technology prototypes crucial for Army capability gaps into military platforms. ",
@@ -126,6 +110,14 @@
 		"deadline": "2021-07-13T17:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/synthetic-health-data-challenge/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "US Navy Challenge: Rapid Design Tool for Advanced Manufacturing",
+		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
+		"summary": "This challenge seeks a parametric design tool in the form of an executable file that will automatically generate the necessary...",
+		"deadline": "2021-07-13T23:59:00-04:00",
+		"details_url": "https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde",
+		"pub_date": "2021-05-13T06:44:25.141834214Z"
 	},
 	{
 		"name": "Water Toxicity Sensor Challenge",
