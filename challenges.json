@@ -1,21 +1,5 @@
 [
 	{
-		"name": "Cleaner Indoor Air During Wildfires",
-		"agency": "U.S. Environmental Protection Agency",
-		"summary": "Seeking innovative solutions for reducing indoor air pollution due to wildfire smoke and high pollution events",
-		"deadline": "2021-05-17T23:59:00-04:00",
-		"details_url": "https://innocentive.wazoku.com/#/challenge/6798f18f0fc24bdfb2ada12e7cec946c",
-		"pub_date": "2021-02-16T16:51:29.42654767Z"
-	},
-	{
-		"name": "Differential Privacy Temporal Map Challenge",
-		"agency": "Department of Commerce - National Institute of Standards and Technology, Public Safety Communications Research (PSCR) Division",
-		"summary": "Help public safety agencies share data while protecting privacy.",
-		"deadline": "2021-05-17T19:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/differential-privacy-temporal-map-challenge/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "NASA Image Co-Registration Code Challenge",
 		"agency": "NASA",
 		"summary": "Help us find where the Eagle has landed, Again!!",
