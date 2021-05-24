@@ -11,43 +11,54 @@ on:
 jobs:
     scheduled:
         runs-on: ubuntu-latest
+
         steps:
-        - name: Install Go
-          uses: actions/setup-go@v2
-          with:
-              go-version: 1.15.x
-        - name: Checkout repo
-          uses: actions/checkout@v2
-          with:
-              fetch-depth: 0
-        - name: Use cache
-          uses: actions/cache@v2
-          with:
-              path: |
-                  ~/go/pkg/mod # module download cache
-                  ~/.cache/go-build # build cache (Linux)
-              key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-              restore-keys: |
-                  ${{ runner.os }}-go-
-        - name: Test
-          run: go test ./...
-        - name: Run scraper for latest challenges
-          run: |-
-              go build -o scraper
-              ./scraper json challenges.json
-              if git ls-files -m | grep -q challenges.json; then
-                ./scraper rss challenges.json > public/challenges.rss
-              fi
-        - name: Commit and push if changed
-          run: |-
-              git config user.name "Automated"
-              git config user.email "actions@users.noreply.github.com"
-              git add -A
-              timestamp=$(date -u)
-              git commit -m "Updated challenges: ${timestamp}" || exit 0
-              git push
-        - name: Deploy
-          uses: peaceiris/actions-gh-pages@v3
-          with:
-              github_token: ${{ secrets.GITHUB_TOKEN }}
-              publish_dir: ./public
+          - name: Install Go
+            uses: actions/setup-go@v2
+            with:
+                go-version: 1.16.x
+
+          - name: Checkout repo
+            uses: actions/checkout@v2
+            with:
+                fetch-depth: 0
+
+          - name: Use cache
+            uses: actions/cache@v2
+            with:
+                path: |
+                    ~/go/pkg/mod # module download cache
+                    ~/.cache/go-build # build cache (Linux)
+                key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+                restore-keys: |
+                    ${{ runner.os }}-go-
+
+          - name: Test
+            run: go test ./...
+
+          - name: Run scraper for latest challenges
+            run: |-
+                go build -o scraper
+                ./scraper json challenges.json
+                if git ls-files -m | grep -q challenges.json; then
+                  ./scraper rss challenges.json > public/challenges.rss
+                fi
+
+          - name: Commit and push if changed
+            run: |-
+                git config user.name "Automated"
+                git config user.email "actions@users.noreply.github.com"
+                git add -A
+                timestamp=$(date -u)
+                git commit -m "Updated challenges: ${timestamp}" || exit 0
+                git push
+
+          - name: Deploy
+            uses: peaceiris/actions-gh-pages@v3
+            with:
+                github_token: ${{ secrets.GITHUB_TOKEN }}
+                publish_dir: ./public
+
+          - name: go mod archive
+            run: |
+                go run github.com/tailscale/go-mod-archiver
