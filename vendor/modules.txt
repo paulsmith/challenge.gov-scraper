@@ -3,6 +3,9 @@
 github.com/PuerkitoBio/goquery
 # github.com/andybalholm/cascadia v1.1.0
 github.com/andybalholm/cascadia
+# github.com/tailscale/go-mod-archiver v0.0.0-20210524181035-c0de410b0a82
+## explicit
+github.com/tailscale/go-mod-archiver
 # golang.org/dl v0.0.0-20201217181409-aeefed14b4e2
 ## explicit
 # golang.org/x/net v0.0.0-20200202094626-16171245cfb2
