@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 20 May 2021 22:38:54 UTC</pubDate>
+		<pubDate>Tue, 25 May 2021 13:00:34 UTC</pubDate>
 		<item>
 			<title>xTechRCCTO AStRA · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtechrccto-astra/</link>
@@ -144,6 +144,13 @@
 			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.subtchallenge.com/</guid>
+		</item>
+		<item>
+			<title>NASA TechRise Student Challenge · National Aeronautics and Space Administration (NASA)</title>
+			<link>https://www.challenge.gov/challenge/nasa-techrise-student-challenge/</link>
+			<description>Summary: Design an experiment to test on a suborbital rocket or high-altitude balloon.&#xA;&#xA;Deadline: 2021-11-03 17:00:00 -0400 -0400</description>
+			<pubDate>Tue, 25 May 2021 13:00:34 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/nasa-techrise-student-challenge/</guid>
 		</item>
 		<item>
 			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>

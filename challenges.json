@@ -160,6 +160,14 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "NASA TechRise Student Challenge",
+		"agency": "National Aeronautics and Space Administration (NASA)",
+		"summary": "Design an experiment to test on a suborbital rocket or high-altitude balloon.",
+		"deadline": "2021-11-03T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/nasa-techrise-student-challenge/",
+		"pub_date": "2021-05-25T13:00:34.688803554Z"
+	},
+	{
 		"name": "EcoTox TARGET Challenge",
 		"agency": "Environmental Protection Agency",
 		"summary": "Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms",
