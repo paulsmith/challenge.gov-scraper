@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 25 May 2021 13:00:34 UTC</pubDate>
+		<pubDate>Wed, 26 May 2021 02:07:27 UTC</pubDate>
 		<item>
 			<title>xTechRCCTO AStRA · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtechrccto-astra/</link>
@@ -95,6 +95,13 @@
 			<description>Summary: Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity&#xA;&#xA;Deadline: 2021-07-26 23:59:00 -0400 -0400</description>
 			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</guid>
+		</item>
+		<item>
+			<title>The FDA New Era of Smarter Food Safety Low- or No-Cost Tech-Enabled Traceability Challenge! · Food and Drug Administration (FDA)</title>
+			<link>https://go.usa.gov/xHSnC</link>
+			<description>Summary: Your traceability solution could help bend the curve of foodborne illness.&#xA;&#xA;Deadline: 2021-07-30 23:59:00 -0400 -0400</description>
+			<pubDate>Wed, 26 May 2021 02:07:26 UTC</pubDate>
+			<guid>https://go.usa.gov/xHSnC</guid>
 		</item>
 		<item>
 			<title>Deep Space Food Challenge Phase 1 · NASA</title>
