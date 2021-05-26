@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Wed, 26 May 2021 02:07:27 UTC</pubDate>
+		<pubDate>Wed, 26 May 2021 22:46:28 UTC</pubDate>
 		<item>
 			<title>xTechRCCTO AStRA · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtechrccto-astra/</link>
@@ -55,6 +55,13 @@
 			<guid>https://nij.ojp.gov/funding/recidivism-forecasting-challenge</guid>
 		</item>
 		<item>
+			<title>2021 GAFC and SBIR Catalyst Prize Competition · U.S. Small Business Administration</title>
+			<link>https://www.sbir.gov/accelerators</link>
+			<description>Summary: Supporting Inclusive Innovation Ecosystem Builders&#xA;&#xA;Deadline: 2021-07-02 16:00:00 -0400 -0400</description>
+			<pubDate>Wed, 26 May 2021 22:46:28 UTC</pubDate>
+			<guid>https://www.sbir.gov/accelerators</guid>
+		</item>
+		<item>
 			<title>American-Made Geothermal Lithium Extraction Prize · U.S. Department of Energy</title>
 			<link>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</link>
 			<description>Summary: Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.&#xA;&#xA;Deadline: 2021-07-02 17:00:00 -0400 -0400</description>
@@ -99,7 +106,7 @@
 		<item>
 			<title>The FDA New Era of Smarter Food Safety Low- or No-Cost Tech-Enabled Traceability Challenge! · Food and Drug Administration (FDA)</title>
 			<link>https://go.usa.gov/xHSnC</link>
-			<description>Summary: Your traceability solution could help bend the curve of foodborne illness.&#xA;&#xA;Deadline: 2021-07-30 23:59:00 -0400 -0400</description>
+			<description>Summary: Your traceability solution could help bend the curve of foodborne illness.&#xA;&#xA;Deadline: 2021-07-30 17:00:00 -0400 -0400</description>
 			<pubDate>Wed, 26 May 2021 02:07:26 UTC</pubDate>
 			<guid>https://go.usa.gov/xHSnC</guid>
 		</item>
