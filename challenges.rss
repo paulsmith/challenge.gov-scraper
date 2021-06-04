@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 01 Jun 2021 15:02:38 UTC</pubDate>
+		<pubDate>Fri, 04 Jun 2021 21:24:42 UTC</pubDate>
 		<item>
 			<title>2021 Design by Biomedical Undergraduate Teams (DEBUT) Challenge · Department of Health and Human Services, National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</title>
 			<link>https://www.nibib.nih.gov/training-careers/undergraduate-graduate/design-biomedical-undergraduate-teams-debut-challenge</link>
@@ -102,6 +102,13 @@
 			<description>Summary: Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity&#xA;&#xA;Deadline: 2021-07-26 23:59:00 -0400 -0400</description>
 			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</guid>
+		</item>
+		<item>
+			<title>Networks Advanced Naval Technology Exercise (NetANTX) Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
+			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</link>
+			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
+			<pubDate>Fri, 04 Jun 2021 21:24:41 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</guid>
 		</item>
 		<item>
 			<title>The FDA New Era of Smarter Food Safety Low- or No-Cost Tech-Enabled Traceability Challenge! · Food and Drug Administration (FDA)</title>
