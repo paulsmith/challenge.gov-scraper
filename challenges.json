@@ -152,6 +152,14 @@
 		"pub_date": "2021-05-29T02:58:12.608149379Z"
 	},
 	{
+		"name": "NASA TechLeap Prize: Autonomous Observation Challenge 1",
+		"agency": "NASA",
+		"summary": "Discover integrated, compact precision pointing systems for autonomously detecting, tracking, and collecting data on transient events.",
+		"deadline": "2021-08-11T20:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/nasa-tech-leap-autonomous-observation-1/",
+		"pub_date": "2021-06-10T17:08:41.389298781Z"
+	},
+	{
 		"name": "Automated Maintenance of Protection Systems Challenge",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.",
