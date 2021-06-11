@@ -112,7 +112,15 @@
 		"pub_date": "2021-04-27T06:24:12.425608332Z"
 	},
 	{
-		"name": "Networks Advanced Naval Technology Exercise (NetANTX) Challenge",
+		"name": "AI and Networks Advanced Naval Technology Exercise (AINet ANTX) – Artificial Intelligence Prize Challenge",
+		"agency": "Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)",
+		"summary": "Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.",
+		"deadline": "2021-07-27T15:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/",
+		"pub_date": "2021-06-11T20:30:24.28203045Z"
+	},
+	{
+		"name": "AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Networks Prize Challenge",
 		"agency": "Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)",
 		"summary": "Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.",
 		"deadline": "2021-07-27T15:00:00-04:00",
