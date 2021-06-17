@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Barriers Among Underserved Groups In Underserved Areas from Equal Access to Federal Procurement Opportunities",
-		"agency": "Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)",
-		"summary": "With an emphasis on science and research procurements and Department of Energy (DOE) procurement opportunities.",
-		"deadline": "2021-06-15T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/barriers-among-underserved-groups-in-underserved-areas-from-equal-access-to-federal-procurement-oopportunities/",
-		"pub_date": "2021-06-01T15:02:38.297142456Z"
-	},
-	{
 		"name": "Break the Ice Phase 1",
 		"agency": "NASA",
 		"summary": "NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...",
@@ -16,20 +8,12 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
-		"name": "Water America's Crops Challenge",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...",
-		"deadline": "2021-06-24T17:00:00-04:00",
-		"details_url": "https://www.herox.com/WaterAmericasCrops",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "Imperfection Detection: Detect Me If You Can",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures",
-		"deadline": "2021-06-24T17:00:00-04:00",
-		"details_url": "https://www.herox.com/ImperfectionDetection",
-		"pub_date": "2021-03-04T12:42:00.938731215Z"
+		"name": "Hack-A-Sat 2",
+		"agency": "Department of Defense - US Air Force  \u0026 US Space Force",
+		"summary": "The Good, The Bad, and the Cyber-Secure",
+		"deadline": "2021-06-27T18:00:00-04:00",
+		"details_url": "https://www.hackasat.com/",
+		"pub_date": "2021-05-05T02:48:14.44460577Z"
 	},
 	{
 		"name": "NIJ's Recidivism Forecasting Challenge",
@@ -96,12 +80,28 @@
 		"pub_date": "2021-05-13T06:44:25.141834214Z"
 	},
 	{
+		"name": "Water America's Crops Challenge",
+		"agency": "Department of the Interior - Bureau of Reclamation",
+		"summary": "Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...",
+		"deadline": "2021-07-15T17:00:00-04:00",
+		"details_url": "https://www.herox.com/WaterAmericasCrops",
+		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
 		"name": "Polar Vortex",
 		"agency": "U.S. Department of Defense, National Security Innovation Network",
 		"summary": "Develop solutions to help collect, analyze, process, and visualize geospatial data in the Arctic.",
 		"deadline": "2021-07-19T23:59:00-04:00",
 		"details_url": "https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131",
 		"pub_date": "2021-06-10T01:41:26.8233455Z"
+	},
+	{
+		"name": "Imperfection Detection: Detect Me If You Can",
+		"agency": "Department of the Interior - Bureau of Reclamation",
+		"summary": "Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures",
+		"deadline": "2021-07-20T17:00:00-04:00",
+		"details_url": "https://www.herox.com/ImperfectionDetection",
+		"pub_date": "2021-03-04T12:42:00.938731215Z"
 	},
 	{
 		"name": "Water Toxicity Sensor Challenge",
@@ -174,14 +174,6 @@
 		"deadline": "2021-09-03T23:59:00-04:00",
 		"details_url": "https://www.freelancer.com/reclamation",
 		"pub_date": "2021-03-18T04:39:52.57962256Z"
-	},
-	{
-		"name": "Hack-A-Sat 2",
-		"agency": "Department of Defense - US Air Force  \u0026 US Space Force",
-		"summary": "The Good, The Bad, and the Cyber-Secure",
-		"deadline": "2021-09-19T18:00:00-04:00",
-		"details_url": "https://www.hackasat.com/",
-		"pub_date": "2021-05-05T02:48:14.44460577Z"
 	},
 	{
 		"name": "Mapping Patient Journeys in Drug Addiction Treatment",
