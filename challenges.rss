@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
-		<item>
-			<title>Barriers Among Underserved Groups In Underserved Areas from Equal Access to Federal Procurement Opportunities · Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)</title>
-			<link>https://www.challenge.gov/challenge/barriers-among-underserved-groups-in-underserved-areas-from-equal-access-to-federal-procurement-oopportunities/</link>
-			<description>Summary: With an emphasis on science and research procurements and Department of Energy (DOE) procurement opportunities.&#xA;&#xA;Deadline: 2021-06-15 23:59:00 -0400 -0400</description>
-			<pubDate>Tue, 01 Jun 2021 15:02:38 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/barriers-among-underserved-groups-in-underserved-areas-from-equal-access-to-federal-procurement-oopportunities/</guid>
-		</item>
+		<pubDate>Thu, 17 Jun 2021 04:43:08 UTC</pubDate>
 		<item>
 			<title>Break the Ice Phase 1 · NASA</title>
 			<link>https://www.challenge.gov/challenge/break-the-ice-phase1/</link>
@@ -20,18 +13,11 @@
 			<guid>https://www.challenge.gov/challenge/break-the-ice-phase1/</guid>
 		</item>
 		<item>
-			<title>Water America&#39;s Crops Challenge · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.herox.com/WaterAmericasCrops</link>
-			<description>Summary: Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.herox.com/WaterAmericasCrops</guid>
-		</item>
-		<item>
-			<title>Imperfection Detection: Detect Me If You Can · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.herox.com/ImperfectionDetection</link>
-			<description>Summary: Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures&#xA;&#xA;Deadline: 2021-06-24 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Mar 2021 12:42:00 UTC</pubDate>
-			<guid>https://www.herox.com/ImperfectionDetection</guid>
+			<title>Hack-A-Sat 2 · Department of Defense - US Air Force  &amp; US Space Force</title>
+			<link>https://www.hackasat.com/</link>
+			<description>Summary: The Good, The Bad, and the Cyber-Secure&#xA;&#xA;Deadline: 2021-06-27 18:00:00 -0400 -0400</description>
+			<pubDate>Wed, 05 May 2021 02:48:14 UTC</pubDate>
+			<guid>https://www.hackasat.com/</guid>
 		</item>
 		<item>
 			<title>NIJ&#39;s Recidivism Forecasting Challenge · Department of Justice - National Institute of Justice</title>
@@ -90,11 +76,25 @@
 			<guid>https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde</guid>
 		</item>
 		<item>
+			<title>Water America&#39;s Crops Challenge · Department of the Interior - Bureau of Reclamation</title>
+			<link>https://www.herox.com/WaterAmericasCrops</link>
+			<description>Summary: Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...&#xA;&#xA;Deadline: 2021-07-15 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
+			<guid>https://www.herox.com/WaterAmericasCrops</guid>
+		</item>
+		<item>
 			<title>Polar Vortex · U.S. Department of Defense, National Security Innovation Network</title>
 			<link>https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131</link>
 			<description>Summary: Develop solutions to help collect, analyze, process, and visualize geospatial data in the Arctic.&#xA;&#xA;Deadline: 2021-07-19 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 10 Jun 2021 01:41:26 UTC</pubDate>
 			<guid>https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131</guid>
+		</item>
+		<item>
+			<title>Imperfection Detection: Detect Me If You Can · Department of the Interior - Bureau of Reclamation</title>
+			<link>https://www.herox.com/ImperfectionDetection</link>
+			<description>Summary: Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures&#xA;&#xA;Deadline: 2021-07-20 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 04 Mar 2021 12:42:00 UTC</pubDate>
+			<guid>https://www.herox.com/ImperfectionDetection</guid>
 		</item>
 		<item>
 			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
@@ -158,13 +158,6 @@
 			<description>Summary: Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.&#xA;&#xA;Deadline: 2021-09-03 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
 			<guid>https://www.freelancer.com/reclamation</guid>
-		</item>
-		<item>
-			<title>Hack-A-Sat 2 · Department of Defense - US Air Force  &amp; US Space Force</title>
-			<link>https://www.hackasat.com/</link>
-			<description>Summary: The Good, The Bad, and the Cyber-Secure&#xA;&#xA;Deadline: 2021-09-19 18:00:00 -0400 -0400</description>
-			<pubDate>Wed, 05 May 2021 02:48:14 UTC</pubDate>
-			<guid>https://www.hackasat.com/</guid>
 		</item>
 		<item>
 			<title>Mapping Patient Journeys in Drug Addiction Treatment · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
