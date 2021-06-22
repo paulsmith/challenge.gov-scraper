@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Break the Ice Phase 1",
-		"agency": "NASA",
-		"summary": "NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...",
-		"deadline": "2021-06-18T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/break-the-ice-phase1/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
 		"name": "Hack-A-Sat 2",
 		"agency": "Department of Defense - US Air Force  \u0026 US Space Force",
 		"summary": "The Good, The Bad, and the Cyber-Secure",
@@ -94,6 +86,14 @@
 		"deadline": "2021-07-19T23:59:00-04:00",
 		"details_url": "https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131",
 		"pub_date": "2021-06-10T01:41:26.8233455Z"
+	},
+	{
+		"name": "LymeX Education and Awareness Healthathon",
+		"agency": "Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)",
+		"summary": "LymeX: Together, redefining the Lyme disease status quo",
+		"deadline": "2021-07-20T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/",
+		"pub_date": "2021-06-22T08:35:01.655110853Z"
 	},
 	{
 		"name": "Imperfection Detection: Detect Me If You Can",
@@ -198,6 +198,14 @@
 		"deadline": "2021-09-30T00:00:00-04:00",
 		"details_url": "https://www.subtchallenge.com/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "Sustainable Communities Web Challenge",
+		"agency": "Environmental Protection Agency (EPA)",
+		"summary": "Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities",
+		"deadline": "2021-10-02T16:00:00-04:00",
+		"details_url": "https://model.earth/community/challenge/",
+		"pub_date": "2021-06-22T08:35:01.655110853Z"
 	},
 	{
 		"name": "NASA TechRise Student Challenge",

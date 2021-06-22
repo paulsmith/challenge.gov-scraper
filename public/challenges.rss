@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 17 Jun 2021 04:43:08 UTC</pubDate>
-		<item>
-			<title>Break the Ice Phase 1 · NASA</title>
-			<link>https://www.challenge.gov/challenge/break-the-ice-phase1/</link>
-			<description>Summary: NASA’s Break the Ice Lunar Challenge seeks to incentivize innovative approaches for excavating icy regolith and delivering water in extreme...&#xA;&#xA;Deadline: 2021-06-18 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/break-the-ice-phase1/</guid>
-		</item>
+		<pubDate>Tue, 22 Jun 2021 08:35:02 UTC</pubDate>
 		<item>
 			<title>Hack-A-Sat 2 · Department of Defense - US Air Force  &amp; US Space Force</title>
 			<link>https://www.hackasat.com/</link>
@@ -88,6 +81,13 @@
 			<description>Summary: Develop solutions to help collect, analyze, process, and visualize geospatial data in the Arctic.&#xA;&#xA;Deadline: 2021-07-19 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 10 Jun 2021 01:41:26 UTC</pubDate>
 			<guid>https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131</guid>
+		</item>
+		<item>
+			<title>LymeX Education and Awareness Healthathon · Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)</title>
+			<link>https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/</link>
+			<description>Summary: LymeX: Together, redefining the Lyme disease status quo&#xA;&#xA;Deadline: 2021-07-20 23:59:00 -0400 -0400</description>
+			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/</guid>
 		</item>
 		<item>
 			<title>Imperfection Detection: Detect Me If You Can · Department of the Interior - Bureau of Reclamation</title>
@@ -179,6 +179,13 @@
 			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.subtchallenge.com/</guid>
+		</item>
+		<item>
+			<title>Sustainable Communities Web Challenge · Environmental Protection Agency (EPA)</title>
+			<link>https://model.earth/community/challenge/</link>
+			<description>Summary: Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities&#xA;&#xA;Deadline: 2021-10-02 16:00:00 -0400 -0400</description>
+			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
+			<guid>https://model.earth/community/challenge/</guid>
 		</item>
 		<item>
 			<title>NASA TechRise Student Challenge · National Aeronautics and Space Administration (NASA)</title>
