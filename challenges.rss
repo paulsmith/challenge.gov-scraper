@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 22 Jun 2021 08:35:02 UTC</pubDate>
+		<pubDate>Tue, 22 Jun 2021 20:31:21 UTC</pubDate>
 		<item>
 			<title>Hack-A-Sat 2 · Department of Defense - US Air Force  &amp; US Space Force</title>
 			<link>https://www.hackasat.com/</link>
@@ -104,18 +104,18 @@
 			<guid>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</guid>
 		</item>
 		<item>
-			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) – Artificial Intelligence Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
-			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</link>
-			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
-			<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</guid>
-		</item>
-		<item>
 			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Networks Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
 			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</link>
 			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
 			<pubDate>Fri, 04 Jun 2021 21:24:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</guid>
+		</item>
+		<item>
+			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Artificial Intelligence Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
+			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</link>
+			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
+			<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</guid>
 		</item>
 		<item>
 			<title>The FDA New Era of Smarter Food Safety Low- or No-Cost Tech-Enabled Traceability Challenge! · Food and Drug Administration (FDA)</title>
