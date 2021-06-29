@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 24 Jun 2021 12:45:46 UTC</pubDate>
-		<item>
-			<title>Hack-A-Sat 2 · Department of Defense - US Air Force  &amp; US Space Force</title>
-			<link>https://www.hackasat.com/</link>
-			<description>Summary: The Good, The Bad, and the Cyber-Secure&#xA;&#xA;Deadline: 2021-06-27 18:00:00 -0400 -0400</description>
-			<pubDate>Wed, 05 May 2021 02:48:14 UTC</pubDate>
-			<guid>https://www.hackasat.com/</guid>
-		</item>
+		<pubDate>Tue, 29 Jun 2021 06:38:10 UTC</pubDate>
 		<item>
 			<title>NIJ&#39;s Recidivism Forecasting Challenge · Department of Justice - National Institute of Justice</title>
 			<link>https://nij.ojp.gov/funding/recidivism-forecasting-challenge</link>
@@ -39,20 +32,6 @@
 			<description>Summary: Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.&#xA;&#xA;Deadline: 2021-07-02 17:00:00 -0400 -0400</description>
 			<pubDate>Tue, 18 May 2021 22:40:18 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</guid>
-		</item>
-		<item>
-			<title>I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
-			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</link>
-			<description>Summary: NIDA challenges creative youth to make art that inspires others by demonstrating indigenous resilience to substance misuse. &#xA;&#xA;Deadline: 2021-07-07 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
-			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</guid>
-		</item>
-		<item>
-			<title>I Strengthen My Nation: American Indian and Alaska Native Community Projects Created by Youth to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
-			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</link>
-			<description>Summary: NIDA challenges creative youth to develop ideas for community projects that could decrease substance use and promote resilience. &#xA;&#xA;Deadline: 2021-07-07 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
-			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</guid>
 		</item>
 		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
@@ -207,6 +186,20 @@
 			<description>Summary: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms&#xA;&#xA;Deadline: 2021-12-03 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/ecotox-challenge/</guid>
+		</item>
+		<item>
+			<title>I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</link>
+			<description>Summary: NIDA challenges creative youth to make art that inspires others by demonstrating indigenous resilience to substance misuse. &#xA;&#xA;Deadline: 2021-12-10 23:59:00 -0500 -0500</description>
+			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
+			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/artistic_expressions_resilience</guid>
+		</item>
+		<item>
+			<title>I Strengthen My Nation: American Indian and Alaska Native Community Projects Created by Youth to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</link>
+			<description>Summary: NIDA challenges creative youth to develop ideas for community projects that could decrease substance use and promote resilience. &#xA;&#xA;Deadline: 2021-12-10 23:59:00 -0500 -0500</description>
+			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
+			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</guid>
 		</item>
 		<item>
 			<title>Engaging Procurement Ideas to Consider (EPIC) Campaign · Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)</title>
