@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 29 Jun 2021 06:38:10 UTC</pubDate>
-		<item>
-			<title>NIJ&#39;s Recidivism Forecasting Challenge · Department of Justice - National Institute of Justice</title>
-			<link>https://nij.ojp.gov/funding/recidivism-forecasting-challenge</link>
-			<description>Summary: Challenging our nation’s brightest data minds to support successful reentry.   &#xA;&#xA;Deadline: 2021-06-30 23:59:00 -0400 -0400</description>
-			<pubDate>Mon, 03 May 2021 16:24:43 UTC</pubDate>
-			<guid>https://nij.ojp.gov/funding/recidivism-forecasting-challenge</guid>
-		</item>
-		<item>
-			<title>Improving IT Vendor &amp; Government Communication and Collaboration · Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)</title>
-			<link>https://www.challenge.gov/challenge/improving-it-vendor-and-government-communication-and-collaboration/</link>
-			<description>Summary: Help shape plans that support government-wide acquisition priorities and initiatives&#xA;&#xA;Deadline: 2021-06-30 23:59:00 -0400 -0400</description>
-			<pubDate>Fri, 28 May 2021 14:46:47 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/improving-it-vendor-and-government-communication-and-collaboration/</guid>
-		</item>
+		<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
 		<item>
 			<title>2021 GAFC and SBIR Catalyst Prize Competition · U.S. Small Business Administration</title>
 			<link>https://www.sbir.gov/accelerators</link>
@@ -153,6 +139,13 @@
 			<guid>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</guid>
 		</item>
 		<item>
+			<title>Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challenge · Department of Defense - Irregular Warfare Technical Support Directorate (IWTSD)</title>
+			<link>https://mosaichallenge.com/</link>
+			<description>Summary: Seeking cutting edge algorithms and robotic platforms for autonomous maneuver in enclosed spaces&#xA;&#xA;Deadline: 2021-09-23 16:59:00 -0400 -0400</description>
+			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
+			<guid>https://mosaichallenge.com/</guid>
+		</item>
+		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.topcoder.com/community/streamflow</link>
 			<description>Summary: Improving short-term streamflow forecast skill.&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
@@ -172,6 +165,20 @@
 			<description>Summary: Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities&#xA;&#xA;Deadline: 2021-10-02 16:00:00 -0400 -0400</description>
 			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
 			<guid>https://model.earth/community/challenge/</guid>
+		</item>
+		<item>
+			<title>NICHD&#39;s Decoding Maternal Morbidity Data Challenge · National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</title>
+			<link>https://www.challenge.gov/challenge/decoding-maternal-morbidity-data-challenge/</link>
+			<description>Summary: Delivering New Data Solutions to Improve Maternal Health&#xA;&#xA;Deadline: 2021-10-15 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/decoding-maternal-morbidity-data-challenge/</guid>
+		</item>
+		<item>
+			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
+			<link>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</link>
+			<description>Summary: Unleashing the value of open data through digital tools for the public &#xA;&#xA;Deadline: 2021-10-18 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</guid>
 		</item>
 		<item>
 			<title>NASA TechRise Student Challenge · National Aeronautics and Space Administration (NASA)</title>
