@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
-		<item>
-			<title>2021 GAFC and SBIR Catalyst Prize Competition · U.S. Small Business Administration</title>
-			<link>https://www.sbir.gov/accelerators</link>
-			<description>Summary: Supporting Inclusive Innovation Ecosystem Builders&#xA;&#xA;Deadline: 2021-07-02 16:00:00 -0400 -0400</description>
-			<pubDate>Wed, 26 May 2021 22:46:28 UTC</pubDate>
-			<guid>https://www.sbir.gov/accelerators</guid>
-		</item>
-		<item>
-			<title>American-Made Geothermal Lithium Extraction Prize · U.S. Department of Energy</title>
-			<link>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</link>
-			<description>Summary: Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.&#xA;&#xA;Deadline: 2021-07-02 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 18 May 2021 22:40:18 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</guid>
-		</item>
+		<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
 		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
 			<link>https://www.challenge.gov/challenge/synthetic-health-data-challenge/</link>
@@ -118,6 +104,13 @@
 			<guid>https://www.challenge.gov/challenge/nasa-tech-leap-autonomous-observation-1/</guid>
 		</item>
 		<item>
+			<title>American-Made Geothermal Lithium Extraction Prize · U.S. Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</link>
+			<description>Summary: Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.&#xA;&#xA;Deadline: 2021-09-02 17:00:00 -0400 -0400</description>
+			<pubDate>Tue, 18 May 2021 22:40:18 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/</guid>
+		</item>
+		<item>
 			<title>Automated Maintenance of Protection Systems Challenge · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.freelancer.com/reclamation</link>
 			<description>Summary: Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.&#xA;&#xA;Deadline: 2021-09-03 23:59:00 -0400 -0400</description>
@@ -153,6 +146,13 @@
 			<guid>https://www.topcoder.com/community/streamflow</guid>
 		</item>
 		<item>
+			<title>First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized · National Institute of Standards and Technology (NIST)</title>
+			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/</link>
+			<description>Summary: Enhancing first responder search &amp; rescue operations in search of missing persons in a heavily forested area using a UAS...&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
+			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/</guid>
+		</item>
+		<item>
 			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
 			<link>https://www.subtchallenge.com/</link>
 			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
@@ -160,11 +160,32 @@
 			<guid>https://www.subtchallenge.com/</guid>
 		</item>
 		<item>
+			<title>First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control · National Institute of Standards and Technology (NIST)</title>
+			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/</link>
+			<description>Summary: Improve security on UAS control channels and navigation functions&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
+			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/</guid>
+		</item>
+		<item>
+			<title>First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay · National Institute of Standards &amp; Technology (NIST)</title>
+			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/</link>
+			<description>Summary: Enhancing first responder operations by building a UAS to support broadband in a degraded cellular service area&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
+			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/</guid>
+		</item>
+		<item>
 			<title>Sustainable Communities Web Challenge · Environmental Protection Agency (EPA)</title>
 			<link>https://model.earth/community/challenge/</link>
 			<description>Summary: Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities&#xA;&#xA;Deadline: 2021-10-02 16:00:00 -0400 -0400</description>
 			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
 			<guid>https://model.earth/community/challenge/</guid>
+		</item>
+		<item>
+			<title>American-Made Solar Prize Round 5 · U.S. Department of Energy</title>
+			<link>https://americanmadechallenges.org/solarprize/round5/index.html </link>
+			<description>Summary: Energize U.S. solar innovation through a series of contests, earning part of $4.6 million in prizes for your novel technology...&#xA;&#xA;Deadline: 2021-10-05 17:00:00 -0400 -0400</description>
+			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
+			<guid>https://americanmadechallenges.org/solarprize/round5/index.html </guid>
 		</item>
 		<item>
 			<title>NICHD&#39;s Decoding Maternal Morbidity Data Challenge · National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</title>

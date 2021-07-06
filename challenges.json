@@ -1,21 +1,5 @@
 [
 	{
-		"name": "2021 GAFC and SBIR Catalyst Prize Competition",
-		"agency": "U.S. Small Business Administration",
-		"summary": "Supporting Inclusive Innovation Ecosystem Builders",
-		"deadline": "2021-07-02T16:00:00-04:00",
-		"details_url": "https://www.sbir.gov/accelerators",
-		"pub_date": "2021-05-26T22:46:28.054911361Z"
-	},
-	{
-		"name": "American-Made Geothermal Lithium Extraction Prize",
-		"agency": "U.S. Department of Energy",
-		"summary": "Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.",
-		"deadline": "2021-07-02T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/",
-		"pub_date": "2021-05-18T22:40:18.969032011Z"
-	},
-	{
 		"name": "Synthetic Health Data Challenge",
 		"agency": "Department of Health \u0026 Human Services - Office of National Coordinator for Health Information Technology",
 		"summary": "Create and test novel solutions to further cultivate Synthea™ capabilities and the synthetic data it generates for healthcare and research...",
@@ -128,6 +112,14 @@
 		"pub_date": "2021-06-10T17:08:41.389298781Z"
 	},
 	{
+		"name": "American-Made Geothermal Lithium Extraction Prize",
+		"agency": "U.S. Department of Energy",
+		"summary": "Seeking solutions that de-risk and increase market viability for direct lithium extraction (DLE) from domestic geothermal brines.",
+		"deadline": "2021-09-02T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/american-made-geothermal-lithium-extraction-prize/",
+		"pub_date": "2021-05-18T22:40:18.969032011Z"
+	},
+	{
 		"name": "Automated Maintenance of Protection Systems Challenge",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.",
@@ -168,6 +160,14 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized",
+		"agency": "National Institute of Standards and Technology (NIST)",
+		"summary": "Enhancing first responder search \u0026 rescue operations in search of missing persons in a heavily forested area using a UAS...",
+		"deadline": "2021-09-30T21:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/",
+		"pub_date": "2021-07-06T10:30:37.334418689Z"
+	},
+	{
 		"name": "DARPA Subterranean (SubT) Challenge",
 		"agency": "Department of Defense - Defense Advanced Research Projects Agency",
 		"summary": "Create breakthrough technologies and capabilities for underground operations.",
@@ -176,12 +176,36 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
+		"name": "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control",
+		"agency": "National Institute of Standards and Technology (NIST)",
+		"summary": "Improve security on UAS control channels and navigation functions",
+		"deadline": "2021-09-30T21:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/",
+		"pub_date": "2021-07-06T10:30:37.334418689Z"
+	},
+	{
+		"name": "First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay",
+		"agency": "National Institute of Standards \u0026 Technology (NIST)",
+		"summary": "Enhancing first responder operations by building a UAS to support broadband in a degraded cellular service area",
+		"deadline": "2021-09-30T21:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/",
+		"pub_date": "2021-07-06T10:30:37.334418689Z"
+	},
+	{
 		"name": "Sustainable Communities Web Challenge",
 		"agency": "Environmental Protection Agency (EPA)",
 		"summary": "Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities",
 		"deadline": "2021-10-02T16:00:00-04:00",
 		"details_url": "https://model.earth/community/challenge/",
 		"pub_date": "2021-06-22T08:35:01.655110853Z"
+	},
+	{
+		"name": "American-Made Solar Prize Round 5",
+		"agency": "U.S. Department of Energy",
+		"summary": "Energize U.S. solar innovation through a series of contests, earning part of $4.6 million in prizes for your novel technology...",
+		"deadline": "2021-10-05T17:00:00-04:00",
+		"details_url": "https://americanmadechallenges.org/solarprize/round5/index.html ",
+		"pub_date": "2021-07-06T10:30:37.334418689Z"
 	},
 	{
 		"name": "NICHD's Decoding Maternal Morbidity Data Challenge",
