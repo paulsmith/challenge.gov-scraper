@@ -160,6 +160,14 @@
 		"pub_date": "2021-07-01T10:30:52.050259159Z"
 	},
 	{
+		"name": "DARPA Subterranean (SubT) Challenge",
+		"agency": "Department of Defense - Defense Advanced Research Projects Agency",
+		"summary": "Create breakthrough technologies and capabilities for underground operations.",
+		"deadline": "2021-09-24T23:59:00-04:00",
+		"details_url": "https://www.subtchallenge.com/",
+		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
 		"name": "Streamflow Forecast Rodeo",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Improving short-term streamflow forecast skill.",
@@ -174,14 +182,6 @@
 		"deadline": "2021-09-30T21:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/",
 		"pub_date": "2021-07-06T10:30:37.334418689Z"
-	},
-	{
-		"name": "DARPA Subterranean (SubT) Challenge",
-		"agency": "Department of Defense - Defense Advanced Research Projects Agency",
-		"summary": "Create breakthrough technologies and capabilities for underground operations.",
-		"deadline": "2021-09-30T00:00:00-04:00",
-		"details_url": "https://www.subtchallenge.com/",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
 		"name": "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control",

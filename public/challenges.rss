@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 06 Jul 2021 14:24:04 UTC</pubDate>
+		<pubDate>Thu, 08 Jul 2021 01:22:27 UTC</pubDate>
 		<item>
 			<title>Synthetic Health Data Challenge · Department of Health &amp; Human Services - Office of National Coordinator for Health Information Technology</title>
 			<link>https://www.challenge.gov/challenge/synthetic-health-data-challenge/</link>
@@ -146,6 +146,13 @@
 			<guid>https://mosaichallenge.com/</guid>
 		</item>
 		<item>
+			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
+			<link>https://www.subtchallenge.com/</link>
+			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-24 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
+			<guid>https://www.subtchallenge.com/</guid>
+		</item>
+		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.topcoder.com/community/streamflow</link>
 			<description>Summary: Improving short-term streamflow forecast skill.&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
@@ -158,13 +165,6 @@
 			<description>Summary: Enhancing first responder search &amp; rescue operations in search of missing persons in a heavily forested area using a UAS...&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
 			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/</guid>
-		</item>
-		<item>
-			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
-			<link>https://www.subtchallenge.com/</link>
-			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-30 00:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.subtchallenge.com/</guid>
 		</item>
 		<item>
 			<title>First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control · National Institute of Standards and Technology (NIST)</title>
