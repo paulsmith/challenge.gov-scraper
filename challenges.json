@@ -8,14 +8,6 @@
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
 	},
 	{
-		"name": "US Navy Challenge: Rapid Design Tool for Advanced Manufacturing",
-		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
-		"summary": "This challenge seeks a parametric design tool in the form of an executable file that will automatically generate the necessary...",
-		"deadline": "2021-07-13T23:59:00-04:00",
-		"details_url": "https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde",
-		"pub_date": "2021-05-13T06:44:25.141834214Z"
-	},
-	{
 		"name": "Water America's Crops Challenge",
 		"agency": "Department of the Interior - Bureau of Reclamation",
 		"summary": "Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...",
@@ -80,6 +72,14 @@
 		"pub_date": "2021-06-11T20:30:24.28203045Z"
 	},
 	{
+		"name": "US Navy Challenge: Rapid Design Tool for Advanced Manufacturing",
+		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
+		"summary": "This challenge seeks a parametric design tool in the form of an executable file that will automatically generate the necessary...",
+		"deadline": "2021-07-27T23:59:00-04:00",
+		"details_url": "https://innocentive.wazoku.com/#/challenge/a4418cb508d447d6b01fa1fae40a1bde",
+		"pub_date": "2021-05-13T06:44:25.141834214Z"
+	},
+	{
 		"name": "The FDA New Era of Smarter Food Safety Low- or No-Cost Tech-Enabled Traceability Challenge!",
 		"agency": "Food and Drug Administration (FDA)",
 		"summary": "Your traceability solution could help bend the curve of foodborne illness.",
@@ -136,6 +136,14 @@
 		"pub_date": "2021-03-18T04:39:52.57962256Z"
 	},
 	{
+		"name": "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security ",
+		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
+		"summary": "Design for an expeditionary USV that is modular and attritable",
+		"deadline": "2021-09-13T23:59:00-04:00",
+		"details_url": "https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8",
+		"pub_date": "2021-07-13T12:48:59.88735139Z"
+	},
+	{
 		"name": "NHLBI Air You Wear Challenge",
 		"agency": "National Institute of Health (NIH) - National Heart, Lung \u0026 Blood Institute (NHLBI)",
 		"summary": "Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...",
@@ -182,6 +190,14 @@
 		"deadline": "2021-09-30T21:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/",
 		"pub_date": "2021-07-06T10:30:37.334418689Z"
+	},
+	{
+		"name": "2021 SERDP AFFF Challenge",
+		"agency": "Department of Defense - Office of the Secretary of Defense (Acquisition \u0026 Sustainment)",
+		"summary": "PFAS-free Firefighting Foams",
+		"deadline": "2021-09-30T14:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/2021-serdp-afff-challenge/",
+		"pub_date": "2021-07-13T12:48:59.88735139Z"
 	},
 	{
 		"name": "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control",
