@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Wed, 14 Jul 2021 20:27:43 UTC</pubDate>
-		<item>
-			<title>Water America&#39;s Crops Challenge · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.herox.com/WaterAmericasCrops</link>
-			<description>Summary: Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...&#xA;&#xA;Deadline: 2021-07-15 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.herox.com/WaterAmericasCrops</guid>
-		</item>
-		<item>
-			<title>Polar Vortex · U.S. Department of Defense, National Security Innovation Network</title>
-			<link>https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131</link>
-			<description>Summary: Develop solutions to help collect, analyze, process, and visualize geospatial data in the Arctic.&#xA;&#xA;Deadline: 2021-07-19 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 10 Jun 2021 01:41:26 UTC</pubDate>
-			<guid>https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131</guid>
-		</item>
+		<pubDate>Tue, 20 Jul 2021 06:37:11 UTC</pubDate>
 		<item>
 			<title>LymeX Education and Awareness Healthathon · Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)</title>
 			<link>https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/</link>
@@ -53,13 +39,6 @@
 			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
 			<pubDate>Fri, 04 Jun 2021 21:24:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</guid>
-		</item>
-		<item>
-			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Artificial Intelligence Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
-			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</link>
-			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-07-27 15:00:00 -0400 -0400</description>
-			<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</guid>
 		</item>
 		<item>
 			<title>US Navy Challenge: Rapid Design Tool for Advanced Manufacturing · Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)</title>
@@ -102,6 +81,13 @@
 			<description>Summary: Discover integrated, compact precision pointing systems for autonomously detecting, tracking, and collecting data on transient events.&#xA;&#xA;Deadline: 2021-08-11 20:00:00 -0400 -0400</description>
 			<pubDate>Thu, 10 Jun 2021 17:08:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/nasa-tech-leap-autonomous-observation-1/</guid>
+		</item>
+		<item>
+			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Artificial Intelligence Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
+			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</link>
+			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-08-13 15:00:00 -0400 -0400</description>
+			<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</guid>
 		</item>
 		<item>
 			<title>American-Made Geothermal Lithium Extraction Prize · U.S. Department of Energy</title>
