@@ -1,21 +1,5 @@
 [
 	{
-		"name": "Water America's Crops Challenge",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Help us improve the reliability of water delivery for America’s crops by advancing methods to reduce water seepage in canals...",
-		"deadline": "2021-07-15T17:00:00-04:00",
-		"details_url": "https://www.herox.com/WaterAmericasCrops",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "Polar Vortex",
-		"agency": "U.S. Department of Defense, National Security Innovation Network",
-		"summary": "Develop solutions to help collect, analyze, process, and visualize geospatial data in the Arctic.",
-		"deadline": "2021-07-19T23:59:00-04:00",
-		"details_url": "https://www.nsin.us/events/2021-07-26-polar-vortex/?!31231212131",
-		"pub_date": "2021-06-10T01:41:26.8233455Z"
-	},
-	{
 		"name": "LymeX Education and Awareness Healthathon",
 		"agency": "Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)",
 		"summary": "LymeX: Together, redefining the Lyme disease status quo",
@@ -54,14 +38,6 @@
 		"deadline": "2021-07-27T15:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/",
 		"pub_date": "2021-06-04T21:24:41.867698164Z"
-	},
-	{
-		"name": "AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Artificial Intelligence Prize Challenge",
-		"agency": "Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)",
-		"summary": "Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.",
-		"deadline": "2021-07-27T15:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/",
-		"pub_date": "2021-06-11T20:30:24.28203045Z"
 	},
 	{
 		"name": "US Navy Challenge: Rapid Design Tool for Advanced Manufacturing",
@@ -110,6 +86,14 @@
 		"deadline": "2021-08-11T20:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/nasa-tech-leap-autonomous-observation-1/",
 		"pub_date": "2021-06-10T17:08:41.389298781Z"
+	},
+	{
+		"name": "AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Artificial Intelligence Prize Challenge",
+		"agency": "Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)",
+		"summary": "Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.",
+		"deadline": "2021-08-13T15:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/",
+		"pub_date": "2021-06-11T20:30:24.28203045Z"
 	},
 	{
 		"name": "American-Made Geothermal Lithium Extraction Prize",
