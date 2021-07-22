@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 22 Jul 2021 01:28:52 UTC</pubDate>
+		<pubDate>Thu, 22 Jul 2021 16:50:00 UTC</pubDate>
 		<item>
 			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
 			<link>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</link>
@@ -130,6 +130,13 @@
 			<description>Summary: Engaging Communities to Reduce HIV-Related Stigma and Increase Prevention and Treatment Among Racial and Ethnic Minority People&#xA;&#xA;Deadline: 2021-09-23 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 22 Jul 2021 01:28:51 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/reduce-HIV-related-stigma/</guid>
+		</item>
+		<item>
+			<title>Estrategias innovadoras de participación comunitaria para reducir el estigma y las disparidades relacionadas con el VIH · Department of Health &amp; Human Services - Office of Minority Health </title>
+			<link>https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH</link>
+			<description>Summary: Involucrando a las comunidades para reducir el estigma relacionado con el VIH, y aumentar la prevención y el tratamiento&#xA;&#xA;Deadline: 2021-09-23 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Jul 2021 16:50:00 UTC</pubDate>
+			<guid>https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH</guid>
 		</item>
 		<item>
 			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
