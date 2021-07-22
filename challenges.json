@@ -1,29 +1,5 @@
 [
 	{
-		"name": "LymeX Education and Awareness Healthathon",
-		"agency": "Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)",
-		"summary": "LymeX: Together, redefining the Lyme disease status quo",
-		"deadline": "2021-07-20T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/",
-		"pub_date": "2021-06-22T08:35:01.655110853Z"
-	},
-	{
-		"name": "Imperfection Detection: Detect Me If You Can",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures",
-		"deadline": "2021-07-20T17:00:00-04:00",
-		"details_url": "https://www.herox.com/ImperfectionDetection",
-		"pub_date": "2021-03-04T12:42:00.938731215Z"
-	},
-	{
-		"name": "Breaking Down Barriers: Reaching the Last Mile of the Unbanked",
-		"agency": "Federal Deposit Insurance Corporation (FDIC)",
-		"summary": "Which data, tools, and other resources could help community banks meet the needs of the unbanked in a cost-effective manner?...",
-		"deadline": "2021-07-20T17:00:00-04:00",
-		"details_url": "https://www.fdic.gov/fditech/techsprints.html",
-		"pub_date": "2021-07-06T14:24:04.235840079Z"
-	},
-	{
 		"name": "Water Toxicity Sensor Challenge",
 		"agency": "Environmental Protection Agency ",
 		"summary": "Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity",
@@ -128,6 +104,14 @@
 		"pub_date": "2021-07-13T12:48:59.88735139Z"
 	},
 	{
+		"name": "NASA Challenge Lunar TORCH",
+		"agency": "National Aeronautics and Space Administration (NASA)",
+		"summary": "Help NASA design a mobile lunar heliostat that can be used to support operations at the Artemis Base Camp",
+		"deadline": "2021-09-13T23:59:00-04:00",
+		"details_url": "https://grabcad.com/challenges/nasa-challenge-lunar-torch",
+		"pub_date": "2021-07-22T01:28:51.929337854Z"
+	},
+	{
 		"name": "NHLBI Air You Wear Challenge",
 		"agency": "National Institute of Health (NIH) - National Heart, Lung \u0026 Blood Institute (NHLBI)",
 		"summary": "Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...",
@@ -150,6 +134,14 @@
 		"deadline": "2021-09-23T16:59:00-04:00",
 		"details_url": "https://mosaichallenge.com/",
 		"pub_date": "2021-07-01T10:30:52.050259159Z"
+	},
+	{
+		"name": "Innovative Community Engagement Strategies to Reduce HIV-related Stigma and Disparities Challenge ",
+		"agency": "Department of Health \u0026 Human Services - Office of Minority Health ",
+		"summary": "Engaging Communities to Reduce HIV-Related Stigma and Increase Prevention and Treatment Among Racial and Ethnic Minority People",
+		"deadline": "2021-09-23T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/reduce-HIV-related-stigma/",
+		"pub_date": "2021-07-22T01:28:51.929337854Z"
 	},
 	{
 		"name": "DARPA Subterranean (SubT) Challenge",
