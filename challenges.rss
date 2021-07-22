@@ -4,28 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 20 Jul 2021 16:48:25 UTC</pubDate>
-		<item>
-			<title>LymeX Education and Awareness Healthathon · Department of Health and Human Services (HHS) – Office of the Assistant Secretary for Health (OASH)</title>
-			<link>https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/</link>
-			<description>Summary: LymeX: Together, redefining the Lyme disease status quo&#xA;&#xA;Deadline: 2021-07-20 23:59:00 -0400 -0400</description>
-			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/lymex-education-and-awareness-healthathon/</guid>
-		</item>
-		<item>
-			<title>Imperfection Detection: Detect Me If You Can · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.herox.com/ImperfectionDetection</link>
-			<description>Summary: Seeking portable tools to non-destructively evaluate the condition of existing fiber reinforced polymer (FRP) composite structures&#xA;&#xA;Deadline: 2021-07-20 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Mar 2021 12:42:00 UTC</pubDate>
-			<guid>https://www.herox.com/ImperfectionDetection</guid>
-		</item>
-		<item>
-			<title>Breaking Down Barriers: Reaching the Last Mile of the Unbanked · Federal Deposit Insurance Corporation (FDIC)</title>
-			<link>https://www.fdic.gov/fditech/techsprints.html</link>
-			<description>Summary: Which data, tools, and other resources could help community banks meet the needs of the unbanked in a cost-effective manner?...&#xA;&#xA;Deadline: 2021-07-20 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 06 Jul 2021 14:24:04 UTC</pubDate>
-			<guid>https://www.fdic.gov/fditech/techsprints.html</guid>
-		</item>
+		<pubDate>Thu, 22 Jul 2021 01:28:52 UTC</pubDate>
 		<item>
 			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
 			<link>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</link>
@@ -118,6 +97,13 @@
 			<guid>https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8</guid>
 		</item>
 		<item>
+			<title>NASA Challenge Lunar TORCH · National Aeronautics and Space Administration (NASA)</title>
+			<link>https://grabcad.com/challenges/nasa-challenge-lunar-torch</link>
+			<description>Summary: Help NASA design a mobile lunar heliostat that can be used to support operations at the Artemis Base Camp&#xA;&#xA;Deadline: 2021-09-13 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Jul 2021 01:28:51 UTC</pubDate>
+			<guid>https://grabcad.com/challenges/nasa-challenge-lunar-torch</guid>
+		</item>
+		<item>
 			<title>NHLBI Air You Wear Challenge · National Institute of Health (NIH) - National Heart, Lung &amp; Blood Institute (NHLBI)</title>
 			<link>https://www.challenge.gov/challenge/air-you-wear-challenge/</link>
 			<description>Summary: Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...&#xA;&#xA;Deadline: 2021-09-14 17:00:00 -0400 -0400</description>
@@ -137,6 +123,13 @@
 			<description>Summary: Seeking cutting edge algorithms and robotic platforms for autonomous maneuver in enclosed spaces&#xA;&#xA;Deadline: 2021-09-23 16:59:00 -0400 -0400</description>
 			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
 			<guid>https://mosaichallenge.com/</guid>
+		</item>
+		<item>
+			<title>Innovative Community Engagement Strategies to Reduce HIV-related Stigma and Disparities Challenge  · Department of Health &amp; Human Services - Office of Minority Health </title>
+			<link>https://www.challenge.gov/challenge/reduce-HIV-related-stigma/</link>
+			<description>Summary: Engaging Communities to Reduce HIV-Related Stigma and Increase Prevention and Treatment Among Racial and Ethnic Minority People&#xA;&#xA;Deadline: 2021-09-23 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 22 Jul 2021 01:28:51 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/reduce-HIV-related-stigma/</guid>
 		</item>
 		<item>
 			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
