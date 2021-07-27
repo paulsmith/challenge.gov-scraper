@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Water Toxicity Sensor Challenge",
-		"agency": "Environmental Protection Agency ",
-		"summary": "Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity",
-		"deadline": "2021-07-26T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/",
-		"pub_date": "2021-04-27T06:24:12.425608332Z"
-	},
-	{
 		"name": "AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Networks Prize Challenge",
 		"agency": "Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)",
 		"summary": "Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.",
@@ -238,6 +230,14 @@
 		"deadline": "2021-11-03T17:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/nasa-techrise-student-challenge/",
 		"pub_date": "2021-05-25T13:00:34.688803554Z"
+	},
+	{
+		"name": "The Artisanal Mining Grand Challenge: The Amazon",
+		"agency": "U.S. Agency for International Development",
+		"summary": "Develop and implement solutions that address the environmental and social costs of artisanal and small-scale gold mining (ASGM) in the...",
+		"deadline": "2021-11-10T23:59:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/",
+		"pub_date": "2021-07-27T06:37:04.653664307Z"
 	},
 	{
 		"name": "EcoTox TARGET Challenge",

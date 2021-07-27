@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 22 Jul 2021 16:50:00 UTC</pubDate>
-		<item>
-			<title>Water Toxicity Sensor Challenge · Environmental Protection Agency </title>
-			<link>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</link>
-			<description>Summary: Water Quality Monitoring for the 21st Century:  A Sensor to Measure Toxicity&#xA;&#xA;Deadline: 2021-07-26 23:59:00 -0400 -0400</description>
-			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/water-toxicity-sensor-challenge/</guid>
-		</item>
+		<pubDate>Tue, 27 Jul 2021 06:37:04 UTC</pubDate>
 		<item>
 			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Networks Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
 			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</link>
@@ -214,6 +207,13 @@
 			<description>Summary: Design an experiment to test on a suborbital rocket or high-altitude balloon.&#xA;&#xA;Deadline: 2021-11-03 17:00:00 -0400 -0400</description>
 			<pubDate>Tue, 25 May 2021 13:00:34 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/nasa-techrise-student-challenge/</guid>
+		</item>
+		<item>
+			<title>The Artisanal Mining Grand Challenge: The Amazon · U.S. Agency for International Development</title>
+			<link>https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/</link>
+			<description>Summary: Develop and implement solutions that address the environmental and social costs of artisanal and small-scale gold mining (ASGM) in the...&#xA;&#xA;Deadline: 2021-11-10 23:59:00 -0500 -0500</description>
+			<pubDate>Tue, 27 Jul 2021 06:37:04 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/</guid>
 		</item>
 		<item>
 			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
