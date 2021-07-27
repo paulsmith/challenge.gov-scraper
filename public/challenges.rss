@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 27 Jul 2021 06:37:04 UTC</pubDate>
+		<pubDate>Tue, 27 Jul 2021 16:48:21 UTC</pubDate>
 		<item>
 			<title>AI and Networks Advanced Naval Technology Exercise (AINet ANTX) - Networks Prize Challenge · Department of Defense, Department of the Navy, Naval Information Warfare Systems Command (NAVWAR)</title>
 			<link>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-netantx-challenge/</link>
@@ -242,6 +242,13 @@
 			<description>Summary: Help shape plans that support the President’s Management Agenda (PMA) and other key government-wide acquisition priorities and initiatives&#xA;&#xA;Deadline: 2021-12-31 23:59:00 -0500 -0500</description>
 			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/epic-campaign/</guid>
+		</item>
+		<item>
+			<title>Perovskite Startup Prize · Department of Energy-National Renewable Energy Laboratory (NREL)</title>
+			<link>https://www.challenge.gov/challenge/perovskite-startup-prize/</link>
+			<description>Summary: The American-Made Perovskite Startup Prize is designed to accelerate the growth of the domestic perovskite industry.&#xA;&#xA;Deadline: 2022-03-31 17:00:00 -0400 -0400</description>
+			<pubDate>Tue, 27 Jul 2021 16:48:20 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/perovskite-startup-prize/</guid>
 		</item>
 		<item>
 			<title>NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III  · Department of Health and Human Services - National Institutes of Health</title>
