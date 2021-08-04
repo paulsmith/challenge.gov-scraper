@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Mon, 02 Aug 2021 22:27:52 UTC</pubDate>
-		<item>
-			<title>Cable Conductor Manufacturing Prize · U.S. Department of Energy</title>
-			<link>https://www.challenge.gov/challenge/cable-conductor-manufacturing-prize/</link>
-			<description>Summary: Help electrify innovation! The three-stage CABLE Conductor Manufacturing Prize offers up to $4.5-million in cash prizes. Learn more!   &#xA;&#xA;Deadline: 2021-08-03 17:00:00 -0400 -0400</description>
-			<pubDate>Sat, 29 May 2021 02:58:12 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/cable-conductor-manufacturing-prize/</guid>
-		</item>
+		<pubDate>Wed, 04 Aug 2021 22:26:38 UTC</pubDate>
 		<item>
 			<title>NASA Entrepreneur&#39;s Challenge · National Aeronautics and Space Administration (NASA)</title>
 			<link>http://nasa-science-challenge.com/</link>
@@ -32,6 +25,13 @@
 			<description>Summary: Project Overmatch is the Department of Navy (DON) priority initiative to modernize Naval warfighting networks.&#xA;&#xA;Deadline: 2021-08-13 15:00:00 -0400 -0400</description>
 			<pubDate>Fri, 11 Jun 2021 20:30:24 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/</guid>
+		</item>
+		<item>
+			<title>xTechSearch 6 · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xtechsearch-6/</link>
+			<description>Summary: xTechSearch 6 will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization...&#xA;&#xA;Deadline: 2021-09-02 17:00:00 -0400 -0400</description>
+			<pubDate>Wed, 04 Aug 2021 22:26:37 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xtechsearch-6/</guid>
 		</item>
 		<item>
 			<title>American-Made Geothermal Lithium Extraction Prize · U.S. Department of Energy</title>

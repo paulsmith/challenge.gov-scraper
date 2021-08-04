@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Cable Conductor Manufacturing Prize",
-		"agency": "U.S. Department of Energy",
-		"summary": "Help electrify innovation! The three-stage CABLE Conductor Manufacturing Prize offers up to $4.5-million in cash prizes. Learn more!   ",
-		"deadline": "2021-08-03T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/cable-conductor-manufacturing-prize/",
-		"pub_date": "2021-05-29T02:58:12.608149379Z"
-	},
-	{
 		"name": "NASA Entrepreneur's Challenge",
 		"agency": "National Aeronautics and Space Administration (NASA)",
 		"summary": "To increase participation of entrepreneurial startup companies in its technology portfolio, NASA’s Science Mission Directorate is seeking companies that can...",
@@ -30,6 +22,14 @@
 		"deadline": "2021-08-13T15:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/networks-advanced-naval-technology-exercise-ainetantx-artificial-intelligence-prize-challenge/",
 		"pub_date": "2021-06-11T20:30:24.28203045Z"
+	},
+	{
+		"name": "xTechSearch 6",
+		"agency": "Department of Defense - U.S. Army",
+		"summary": "xTechSearch 6 will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization...",
+		"deadline": "2021-09-02T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/xtechsearch-6/",
+		"pub_date": "2021-08-04T22:26:37.982732195Z"
 	},
 	{
 		"name": "American-Made Geothermal Lithium Extraction Prize",
