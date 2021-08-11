@@ -1,13 +1,5 @@
 [
 	{
-		"name": "NASA Entrepreneur's Challenge",
-		"agency": "National Aeronautics and Space Administration (NASA)",
-		"summary": "To increase participation of entrepreneurial startup companies in its technology portfolio, NASA’s Science Mission Directorate is seeking companies that can...",
-		"deadline": "2021-08-06T17:00:00-04:00",
-		"details_url": "http://nasa-science-challenge.com/",
-		"pub_date": "2021-07-20T16:48:25.367101782Z"
-	},
-	{
 		"name": "NASA TechLeap Prize: Autonomous Observation Challenge 1",
 		"agency": "NASA",
 		"summary": "Discover integrated, compact precision pointing systems for autonomously detecting, tracking, and collecting data on transient events.",
