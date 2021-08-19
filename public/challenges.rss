@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 19 Aug 2021 01:12:23 UTC</pubDate>
+		<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
 		<item>
 			<title>xTechPlugfest · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xTechPlugfest/</link>
@@ -186,6 +186,13 @@
 			<description>Summary: Testing the premise of research ideas that can be fostered into biotech startups&#xA;&#xA;Deadline: 2021-11-16 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/2021-start-a-sud-startup-challenge/</guid>
+		</item>
+		<item>
+			<title>Pediatric COVID-19 Data Challenge · Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA) </title>
+			<link>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</link>
+			<description>Summary: Help develop computational modules to predict children at risk for severe COVID-19 complications&#xA;&#xA;Deadline: 2021-11-19 23:59:00 -0500 -0500</description>
+			<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</guid>
 		</item>
 		<item>
 			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
