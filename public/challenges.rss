@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 17 Aug 2021 04:38:15 UTC</pubDate>
+		<pubDate>Thu, 19 Aug 2021 01:12:23 UTC</pubDate>
 		<item>
 			<title>xTechPlugfest · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xTechPlugfest/</link>
@@ -60,6 +60,13 @@
 			<description>Summary: Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...&#xA;&#xA;Deadline: 2021-09-14 17:00:00 -0400 -0400</description>
 			<pubDate>Thu, 24 Jun 2021 12:45:46 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/air-you-wear-challenge/</guid>
+		</item>
+		<item>
+			<title>Palmetto Tech Bridge Pitch Jam Prize Challenge 2021 · Naval Information Warfare Center (NIWC), Atlantic  </title>
+			<link>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</link>
+			<description>Summary: Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)&#xA;&#xA;Deadline: 2021-09-19 23:00:00 -0400 -0400</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</guid>
 		</item>
 		<item>
 			<title>Mapping Patient Journeys in Drug Addiction Treatment · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
@@ -155,7 +162,7 @@
 		<item>
 			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
 			<link>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</link>
-			<description>Summary: Unleashing the value of open data through digital tools for the public &#xA;&#xA;Deadline: 2021-10-18 23:59:00 -0400 -0400</description>
+			<description>Summary: Unleashing the value of open data through digital tools for the public &#xA;&#xA;Deadline: 2021-10-24 23:59:00 -0400 -0400</description>
 			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</guid>
 		</item>
@@ -172,6 +179,13 @@
 			<description>Summary: Develop and implement solutions that address the environmental and social costs of artisanal and small-scale gold mining (ASGM) in the...&#xA;&#xA;Deadline: 2021-11-10 23:59:00 -0500 -0500</description>
 			<pubDate>Tue, 27 Jul 2021 06:37:04 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/</guid>
+		</item>
+		<item>
+			<title>2021 &#34;$100,000 for Start a SUD Startup&#34; Challenge · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
+			<link>https://www.challenge.gov/challenge/2021-start-a-sud-startup-challenge/</link>
+			<description>Summary: Testing the premise of research ideas that can be fostered into biotech startups&#xA;&#xA;Deadline: 2021-11-16 23:59:00 -0500 -0500</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/2021-start-a-sud-startup-challenge/</guid>
 		</item>
 		<item>
 			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
@@ -209,11 +223,25 @@
 			<guid>https://www.challenge.gov/challenge/perovskite-startup-prize/</guid>
 		</item>
 		<item>
+			<title>Solar Decathlon 2022 Design Challenge · U.S. Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</link>
+			<description>Summary: Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...&#xA;&#xA;Deadline: 2022-04-19 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</guid>
+		</item>
+		<item>
 			<title>NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III  · Department of Health and Human Services - National Institutes of Health</title>
 			<link>https://www.challenge.gov/challenge/3d-roc-phase3/</link>
 			<description>Summary: Build your vision of the future.&#xA;&#xA;Deadline: 2022-06-01 14:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/3d-roc-phase3/</guid>
+		</item>
+		<item>
+			<title>Solar Decathlon 2023 Build Challenge · U.S. Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</link>
+			<description>Summary: Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...&#xA;&#xA;Deadline: 2023-04-19 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</guid>
 		</item>
 	</channel>
 </rss>

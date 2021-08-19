@@ -64,6 +64,14 @@
 		"pub_date": "2021-06-24T12:45:46.289625026Z"
 	},
 	{
+		"name": "Palmetto Tech Bridge Pitch Jam Prize Challenge 2021",
+		"agency": "Naval Information Warfare Center (NIWC), Atlantic  ",
+		"summary": "Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)",
+		"deadline": "2021-09-19T23:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
+	},
+	{
 		"name": "Mapping Patient Journeys in Drug Addiction Treatment",
 		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
 		"summary": "Mapping the obstacles patients face in getting treatment for drug addiction",
@@ -171,7 +179,7 @@
 		"name": "Open Data for Good Grand Challenge ",
 		"agency": "U.S. Census Bureau",
 		"summary": "Unleashing the value of open data through digital tools for the public ",
-		"deadline": "2021-10-18T23:59:00-04:00",
+		"deadline": "2021-10-24T23:59:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/",
 		"pub_date": "2021-07-01T10:30:52.050259159Z"
 	},
@@ -190,6 +198,14 @@
 		"deadline": "2021-11-10T23:59:00-05:00",
 		"details_url": "https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/",
 		"pub_date": "2021-07-27T06:37:04.653664307Z"
+	},
+	{
+		"name": "2021 \"$100,000 for Start a SUD Startup\" Challenge",
+		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
+		"summary": "Testing the premise of research ideas that can be fostered into biotech startups",
+		"deadline": "2021-11-16T23:59:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/2021-start-a-sud-startup-challenge/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
 	},
 	{
 		"name": "EcoTox TARGET Challenge",
@@ -232,11 +248,27 @@
 		"pub_date": "2021-07-27T16:48:20.446964275Z"
 	},
 	{
+		"name": "Solar Decathlon 2022 Design Challenge",
+		"agency": "U.S. Department of Energy",
+		"summary": "Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...",
+		"deadline": "2022-04-19T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
+	},
+	{
 		"name": "NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III ",
 		"agency": "Department of Health and Human Services - National Institutes of Health",
 		"summary": "Build your vision of the future.",
 		"deadline": "2022-06-01T14:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/3d-roc-phase3/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "Solar Decathlon 2023 Build Challenge",
+		"agency": "U.S. Department of Energy",
+		"summary": "Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...",
+		"deadline": "2023-04-19T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
 	}
 ]
