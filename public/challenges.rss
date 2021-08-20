@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
+		<pubDate>Fri, 20 Aug 2021 16:47:03 UTC</pubDate>
 		<item>
 			<title>xTechPlugfest · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xTechPlugfest/</link>
@@ -158,6 +158,13 @@
 			<description>Summary: Delivering New Data Solutions to Improve Maternal Health&#xA;&#xA;Deadline: 2021-10-15 17:00:00 -0400 -0400</description>
 			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/decoding-maternal-morbidity-data-challenge/</guid>
+		</item>
+		<item>
+			<title>Large Scale Metal Additive Manufacturing Challenge · Air Force Research Laboratory</title>
+			<link>https://unum.nsin.us/afrl-challenge-4</link>
+			<description>Summary: Develop and mature large-format metal AM technologies for DoD parts and solutions&#xA;&#xA;Deadline: 2021-10-15 23:59:00 -0400 -0400</description>
+			<pubDate>Fri, 20 Aug 2021 16:47:03 UTC</pubDate>
+			<guid>https://unum.nsin.us/afrl-challenge-4</guid>
 		</item>
 		<item>
 			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
