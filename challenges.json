@@ -56,14 +56,6 @@
 		"pub_date": "2021-07-22T01:28:51.929337854Z"
 	},
 	{
-		"name": "NHLBI Air You Wear Challenge",
-		"agency": "National Institute of Health (NIH) - National Heart, Lung \u0026 Blood Institute (NHLBI)",
-		"summary": "Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...",
-		"deadline": "2021-09-14T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/air-you-wear-challenge/",
-		"pub_date": "2021-06-24T12:45:46.289625026Z"
-	},
-	{
 		"name": "Palmetto Tech Bridge Pitch Jam Prize Challenge 2021",
 		"agency": "Naval Information Warfare Center (NIWC), Atlantic  ",
 		"summary": "Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)",
@@ -134,6 +126,14 @@
 		"deadline": "2021-09-30T14:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/2021-serdp-afff-challenge/",
 		"pub_date": "2021-07-13T12:48:59.88735139Z"
+	},
+	{
+		"name": "NHLBI Air You Wear Challenge",
+		"agency": "National Institute of Health (NIH) - National Heart, Lung \u0026 Blood Institute (NHLBI)",
+		"summary": "Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...",
+		"deadline": "2021-09-30T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/air-you-wear-challenge/",
+		"pub_date": "2021-06-24T12:45:46.289625026Z"
 	},
 	{
 		"name": "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control",
