@@ -1,13 +1,5 @@
 [
 	{
-		"name": "xTechPlugfest",
-		"agency": "Department of Defense - U.S. Army",
-		"summary": "The xTechPlugfest will provide non-dilutive seed prizes to select entities to attend and participate to demonstrate capabilities that currently exist...",
-		"deadline": "2021-08-27T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/xTechPlugfest/",
-		"pub_date": "2021-08-17T04:38:15.763203337Z"
-	},
-	{
 		"name": "xTechSearch 6",
 		"agency": "Department of Defense - U.S. Army",
 		"summary": "xTechSearch 6 will highlight opportunities for small businesses to collaborate with the Army to tackle the most critical Army modernization...",
@@ -192,6 +184,22 @@
 		"pub_date": "2021-07-01T10:30:52.050259159Z"
 	},
 	{
+		"name": "Solar Decathlon 2022 Design Challenge",
+		"agency": "U.S. Department of Energy",
+		"summary": "Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...",
+		"deadline": "2021-10-26T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
+	},
+	{
+		"name": "Solar Decathlon 2023 Build Challenge",
+		"agency": "U.S. Department of Energy",
+		"summary": "Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...",
+		"deadline": "2021-10-26T23:59:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/",
+		"pub_date": "2021-08-19T01:12:22.77359496Z"
+	},
+	{
 		"name": "NASA TechRise Student Challenge",
 		"agency": "National Aeronautics and Space Administration (NASA)",
 		"summary": "Design an experiment to test on a suborbital rocket or high-altitude balloon.",
@@ -264,27 +272,11 @@
 		"pub_date": "2021-07-27T16:48:20.446964275Z"
 	},
 	{
-		"name": "Solar Decathlon 2022 Design Challenge",
-		"agency": "U.S. Department of Energy",
-		"summary": "Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...",
-		"deadline": "2022-04-19T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/",
-		"pub_date": "2021-08-19T01:12:22.77359496Z"
-	},
-	{
 		"name": "NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III ",
 		"agency": "Department of Health and Human Services - National Institutes of Health",
 		"summary": "Build your vision of the future.",
 		"deadline": "2022-06-01T14:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/3d-roc-phase3/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "Solar Decathlon 2023 Build Challenge",
-		"agency": "U.S. Department of Energy",
-		"summary": "Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...",
-		"deadline": "2023-04-19T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/",
-		"pub_date": "2021-08-19T01:12:22.77359496Z"
 	}
 ]
