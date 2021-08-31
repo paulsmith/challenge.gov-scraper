@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 26 Aug 2021 18:32:57 UTC</pubDate>
-		<item>
-			<title>xTechPlugfest · Department of Defense - U.S. Army</title>
-			<link>https://www.challenge.gov/challenge/xTechPlugfest/</link>
-			<description>Summary: The xTechPlugfest will provide non-dilutive seed prizes to select entities to attend and participate to demonstrate capabilities that currently exist...&#xA;&#xA;Deadline: 2021-08-27 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 17 Aug 2021 04:38:15 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/xTechPlugfest/</guid>
-		</item>
+		<pubDate>Tue, 31 Aug 2021 06:33:45 UTC</pubDate>
 		<item>
 			<title>xTechSearch 6 · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtechsearch-6/</link>
@@ -174,6 +167,20 @@
 			<guid>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</guid>
 		</item>
 		<item>
+			<title>Solar Decathlon 2022 Design Challenge · U.S. Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</link>
+			<description>Summary: Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...&#xA;&#xA;Deadline: 2021-10-26 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</guid>
+		</item>
+		<item>
+			<title>Solar Decathlon 2023 Build Challenge · U.S. Department of Energy</title>
+			<link>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</link>
+			<description>Summary: Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...&#xA;&#xA;Deadline: 2021-10-26 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</guid>
+		</item>
+		<item>
 			<title>NASA TechRise Student Challenge · National Aeronautics and Space Administration (NASA)</title>
 			<link>https://www.challenge.gov/challenge/nasa-techrise-student-challenge/</link>
 			<description>Summary: Design an experiment to test on a suborbital rocket or high-altitude balloon.&#xA;&#xA;Deadline: 2021-11-03 17:00:00 -0400 -0400</description>
@@ -237,25 +244,11 @@
 			<guid>https://www.challenge.gov/challenge/perovskite-startup-prize/</guid>
 		</item>
 		<item>
-			<title>Solar Decathlon 2022 Design Challenge · U.S. Department of Energy</title>
-			<link>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</link>
-			<description>Summary: Are you interested in designing high-performance buildings that tackle climate change and promote environmental justice? Do you love the thrill...&#xA;&#xA;Deadline: 2022-04-19 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/solar-decathlon-2022-design-challenge/</guid>
-		</item>
-		<item>
 			<title>NEI 3-D Retina Organoid Challenge (3-D ROC), Phase III  · Department of Health and Human Services - National Institutes of Health</title>
 			<link>https://www.challenge.gov/challenge/3d-roc-phase3/</link>
 			<description>Summary: Build your vision of the future.&#xA;&#xA;Deadline: 2022-06-01 14:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/3d-roc-phase3/</guid>
-		</item>
-		<item>
-			<title>Solar Decathlon 2023 Build Challenge · U.S. Department of Energy</title>
-			<link>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</link>
-			<description>Summary: Are you interested in designing and building high-performance homes in your local community that tackle climate change and promote environmental...&#xA;&#xA;Deadline: 2023-04-19 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/solar-decathlon-2023-build-challenge/</guid>
 		</item>
 	</channel>
 </rss>
