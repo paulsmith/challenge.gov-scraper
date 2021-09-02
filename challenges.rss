@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 31 Aug 2021 20:28:43 UTC</pubDate>
+		<pubDate>Thu, 02 Sep 2021 02:35:21 UTC</pubDate>
 		<item>
 			<title>xTechSearch 6 · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xtechsearch-6/</link>
@@ -160,6 +160,13 @@
 			<guid>https://unum.nsin.us/afrl-challenge-4</guid>
 		</item>
 		<item>
+			<title>Machine Learning Prediction of Internal Building Structures · Air Force Research Laboratory</title>
+			<link>https://unum.nsin.us/afrl-challenge-5</link>
+			<description>Summary: The goal of this challenge is to predict the internal structural configuration of structures using external satellite photographs.&#xA;&#xA;Deadline: 2021-10-15 23:59:00 -0400 -0400</description>
+			<pubDate>Thu, 02 Sep 2021 02:35:21 UTC</pubDate>
+			<guid>https://unum.nsin.us/afrl-challenge-5</guid>
+		</item>
+		<item>
 			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
 			<link>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</link>
 			<description>Summary: Unleashing the value of open data through digital tools for the public &#xA;&#xA;Deadline: 2021-10-24 23:59:00 -0400 -0400</description>
@@ -204,7 +211,7 @@
 		<item>
 			<title>Pediatric COVID-19 Data Challenge · Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA) </title>
 			<link>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</link>
-			<description>Summary: Help develop computational modules to predict children at risk for severe COVID-19 complications&#xA;&#xA;Deadline: 2021-11-19 23:59:00 -0500 -0500</description>
+			<description>Summary: Help develop computational models to predict children at risk for severe COVID-19 complications&#xA;&#xA;Deadline: 2021-11-19 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</guid>
 		</item>
