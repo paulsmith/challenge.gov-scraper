@@ -176,6 +176,14 @@
 		"pub_date": "2021-08-20T16:47:03.003820066Z"
 	},
 	{
+		"name": "Machine Learning Prediction of Internal Building Structures",
+		"agency": "Air Force Research Laboratory",
+		"summary": "The goal of this challenge is to predict the internal structural configuration of structures using external satellite photographs.",
+		"deadline": "2021-10-15T23:59:00-04:00",
+		"details_url": "https://unum.nsin.us/afrl-challenge-5",
+		"pub_date": "2021-09-02T02:35:21.303455157Z"
+	},
+	{
 		"name": "Open Data for Good Grand Challenge ",
 		"agency": "U.S. Census Bureau",
 		"summary": "Unleashing the value of open data through digital tools for the public ",
@@ -226,7 +234,7 @@
 	{
 		"name": "Pediatric COVID-19 Data Challenge",
 		"agency": "Department of Health and Human Services - Biomedical Advanced Research and Development Authority (BARDA) ",
-		"summary": "Help develop computational modules to predict children at risk for severe COVID-19 complications",
+		"summary": "Help develop computational models to predict children at risk for severe COVID-19 complications",
 		"deadline": "2021-11-19T23:59:00-05:00",
 		"details_url": "https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/",
 		"pub_date": "2021-08-19T20:28:42.606974072Z"
