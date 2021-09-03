@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 03 Sep 2021 18:33:43 UTC</pubDate>
+		<pubDate>Fri, 03 Sep 2021 22:28:06 UTC</pubDate>
 		<item>
 			<title>Automated Maintenance of Protection Systems Challenge · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.freelancer.com/reclamation</link>
@@ -200,6 +200,13 @@
 			<description>Summary: Help develop computational models to predict children at risk for severe COVID-19 complications&#xA;&#xA;Deadline: 2021-11-19 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</guid>
+		</item>
+		<item>
+			<title>xView3 · Department of Defense, Defense Innovation Unit</title>
+			<link>https://iuu.xview.us/</link>
+			<description>Summary: A competition to detect dark vessels using computer vision and global SAR satellite imagery&#xA;&#xA;Deadline: 2021-11-30 19:59:00 -0500 -0500</description>
+			<pubDate>Fri, 03 Sep 2021 22:28:05 UTC</pubDate>
+			<guid>https://iuu.xview.us/</guid>
 		</item>
 		<item>
 			<title>EcoTox TARGET Challenge · Environmental Protection Agency</title>
