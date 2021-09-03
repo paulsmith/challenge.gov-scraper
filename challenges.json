@@ -224,6 +224,14 @@
 		"pub_date": "2021-08-19T20:28:42.606974072Z"
 	},
 	{
+		"name": "xView3",
+		"agency": "Department of Defense, Defense Innovation Unit",
+		"summary": "A competition to detect dark vessels using computer vision and global SAR satellite imagery",
+		"deadline": "2021-11-30T19:59:00-05:00",
+		"details_url": "https://iuu.xview.us/",
+		"pub_date": "2021-09-03T22:28:05.982054092Z"
+	},
+	{
 		"name": "EcoTox TARGET Challenge",
 		"agency": "Environmental Protection Agency",
 		"summary": "Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms",
