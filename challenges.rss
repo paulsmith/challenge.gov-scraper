@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 03 Sep 2021 22:28:06 UTC</pubDate>
-		<item>
-			<title>Automated Maintenance of Protection Systems Challenge · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.freelancer.com/reclamation</link>
-			<description>Summary: Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.&#xA;&#xA;Deadline: 2021-09-03 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 18 Mar 2021 04:39:52 UTC</pubDate>
-			<guid>https://www.freelancer.com/reclamation</guid>
-		</item>
+		<pubDate>Wed, 08 Sep 2021 22:28:26 UTC</pubDate>
 		<item>
 			<title>xTechHBCU · Department of Defense - U.S. Army</title>
 			<link>https://www.challenge.gov/challenge/xTechHBCU/</link>
@@ -153,6 +146,13 @@
 			<guid>https://unum.nsin.us/afrl-challenge-5</guid>
 		</item>
 		<item>
+			<title>Data Privacy Certification - UI/UX Design Challenge · International Trade Administration (ITA)</title>
+			<link>https://www.freelancer.com/contest/1989803</link>
+			<description>Summary: Employ your UI and UX design skills to help make it easier for organizations around the world to be recognized...&#xA;&#xA;Deadline: 2021-10-15 12:59:00 -0400 -0400</description>
+			<pubDate>Wed, 08 Sep 2021 22:28:26 UTC</pubDate>
+			<guid>https://www.freelancer.com/contest/1989803</guid>
+		</item>
+		<item>
 			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
 			<link>https://www.challenge.gov/challenge/open-data-for-good-grand-challenge/</link>
 			<description>Summary: Unleashing the value of open data through digital tools for the public &#xA;&#xA;Deadline: 2021-10-24 23:59:00 -0400 -0400</description>
@@ -249,6 +249,13 @@
 			<description>Summary: Build your vision of the future.&#xA;&#xA;Deadline: 2022-06-01 14:00:00 -0400 -0400</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/3d-roc-phase3/</guid>
+		</item>
+		<item>
+			<title>Divide and Conquer: Modeling Large-Scale Hydraulics Faster Challenge · Bureau of Reclamation</title>
+			<link>https://www.freelancer.com/reclamation/divide-and-conquer</link>
+			<description>Summary: Improve the modeling of flow hydraulics and sediment transport by creating a fast, stable, parallel linear equation solver for computational...&#xA;&#xA;Deadline: 2022-03-27 23:59:00 -0400 -0400</description>
+			<pubDate>Wed, 08 Sep 2021 22:28:26 UTC</pubDate>
+			<guid>https://www.freelancer.com/reclamation/divide-and-conquer</guid>
 		</item>
 	</channel>
 </rss>
