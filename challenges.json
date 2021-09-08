@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Automated Maintenance of Protection Systems Challenge",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Make power systems more reliable by automating maintenance testing of protective relays and associated potential and current transformers.",
-		"deadline": "2021-09-03T23:59:00-04:00",
-		"details_url": "https://www.freelancer.com/reclamation",
-		"pub_date": "2021-03-18T04:39:52.57962256Z"
-	},
-	{
 		"name": "xTechHBCU",
 		"agency": "Department of Defense - U.S. Army",
 		"summary": "xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...",
@@ -168,6 +160,14 @@
 		"pub_date": "2021-09-02T02:35:21.303455157Z"
 	},
 	{
+		"name": "Data Privacy Certification - UI/UX Design Challenge",
+		"agency": "International Trade Administration (ITA)",
+		"summary": "Employ your UI and UX design skills to help make it easier for organizations around the world to be recognized...",
+		"deadline": "2021-10-15T12:59:00-04:00",
+		"details_url": "https://www.freelancer.com/contest/1989803",
+		"pub_date": "2021-09-08T22:28:26.064912338Z"
+	},
+	{
 		"name": "Open Data for Good Grand Challenge ",
 		"agency": "U.S. Census Bureau",
 		"summary": "Unleashing the value of open data through digital tools for the public ",
@@ -278,5 +278,13 @@
 		"deadline": "2022-06-01T14:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/3d-roc-phase3/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "Divide and Conquer: Modeling Large-Scale Hydraulics Faster Challenge",
+		"agency": "Bureau of Reclamation",
+		"summary": "Improve the modeling of flow hydraulics and sediment transport by creating a fast, stable, parallel linear equation solver for computational...",
+		"deadline": "2022-03-27T23:59:00-04:00",
+		"details_url": "https://www.freelancer.com/reclamation/divide-and-conquer",
+		"pub_date": "2021-09-08T22:28:26.064912338Z"
 	}
 ]
