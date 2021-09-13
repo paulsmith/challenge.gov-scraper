@@ -1,13 +1,5 @@
 [
 	{
-		"name": "xTechHBCU",
-		"agency": "Department of Defense - U.S. Army",
-		"summary": "xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...",
-		"deadline": "2021-09-09T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/xTechHBCU/",
-		"pub_date": "2021-08-17T04:38:15.763203337Z"
-	},
-	{
 		"name": "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security ",
 		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
 		"summary": "Design for an expeditionary USV that is modular and attritable",
@@ -118,6 +110,14 @@
 		"deadline": "2021-09-30T21:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/",
 		"pub_date": "2021-07-06T10:30:37.334418689Z"
+	},
+	{
+		"name": "xTechHBCU",
+		"agency": "Department of Defense - U.S. Army",
+		"summary": "xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...",
+		"deadline": "2021-10-01T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/xTechHBCU/",
+		"pub_date": "2021-08-17T04:38:15.763203337Z"
 	},
 	{
 		"name": "Sustainable Communities Web Challenge",

@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Wed, 08 Sep 2021 22:28:26 UTC</pubDate>
-		<item>
-			<title>xTechHBCU · Department of Defense - U.S. Army</title>
-			<link>https://www.challenge.gov/challenge/xTechHBCU/</link>
-			<description>Summary: xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...&#xA;&#xA;Deadline: 2021-09-09 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 17 Aug 2021 04:38:15 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/xTechHBCU/</guid>
-		</item>
+		<pubDate>Mon, 13 Sep 2021 16:45:45 UTC</pubDate>
 		<item>
 			<title>US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security  · Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)</title>
 			<link>https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8</link>
@@ -109,6 +102,13 @@
 			<description>Summary: Enhancing first responder operations by building a UAS to support broadband in a degraded cellular service area&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
 			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/</guid>
+		</item>
+		<item>
+			<title>xTechHBCU · Department of Defense - U.S. Army</title>
+			<link>https://www.challenge.gov/challenge/xTechHBCU/</link>
+			<description>Summary: xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...&#xA;&#xA;Deadline: 2021-10-01 17:00:00 -0400 -0400</description>
+			<pubDate>Tue, 17 Aug 2021 04:38:15 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/xTechHBCU/</guid>
 		</item>
 		<item>
 			<title>Sustainable Communities Web Challenge · Environmental Protection Agency (EPA)</title>
