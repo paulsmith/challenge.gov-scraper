@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 16 Sep 2021 01:30:10 UTC</pubDate>
+		<pubDate>Thu, 16 Sep 2021 18:32:19 UTC</pubDate>
 		<item>
 			<title>Palmetto Tech Bridge Pitch Jam Prize Challenge 2021 · Naval Information Warfare Center (NIWC), Atlantic  </title>
 			<link>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</link>
@@ -193,6 +193,13 @@
 			<description>Summary: Help develop computational models to predict children at risk for severe COVID-19 complications&#xA;&#xA;Deadline: 2021-11-19 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 19 Aug 2021 20:28:42 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/pediatric-covid19-data-challenge/</guid>
+		</item>
+		<item>
+			<title>ED.gov National Assessment of Educational Progress (NAEP) Automated Scoring Challenge · Department of Education, Institute of Education Sciences (IES)</title>
+			<link>https://www.challenge.gov/challenge/naep-automated-scoring-challenge/</link>
+			<description>Summary: Accurately &amp; Transparently Predicting Grades of Test Items&#xA;&#xA;Deadline: 2021-11-28 17:00:00 -0500 -0500</description>
+			<pubDate>Thu, 16 Sep 2021 18:32:19 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/naep-automated-scoring-challenge/</guid>
 		</item>
 		<item>
 			<title>xView3 · Department of Defense, Defense Innovation Unit</title>
