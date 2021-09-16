@@ -1,21 +1,5 @@
 [
 	{
-		"name": "US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security ",
-		"agency": "Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)",
-		"summary": "Design for an expeditionary USV that is modular and attritable",
-		"deadline": "2021-09-13T23:59:00-04:00",
-		"details_url": "https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8",
-		"pub_date": "2021-07-13T12:48:59.88735139Z"
-	},
-	{
-		"name": "NASA Challenge Lunar TORCH",
-		"agency": "National Aeronautics and Space Administration (NASA)",
-		"summary": "Help NASA design a mobile lunar heliostat that can be used to support operations at the Artemis Base Camp",
-		"deadline": "2021-09-13T23:59:00-04:00",
-		"details_url": "https://grabcad.com/challenges/nasa-challenge-lunar-torch",
-		"pub_date": "2021-07-22T01:28:51.929337854Z"
-	},
-	{
 		"name": "Palmetto Tech Bridge Pitch Jam Prize Challenge 2021",
 		"agency": "Naval Information Warfare Center (NIWC), Atlantic  ",
 		"summary": "Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)",
@@ -166,6 +150,14 @@
 		"deadline": "2021-10-15T12:59:00-04:00",
 		"details_url": "https://www.freelancer.com/contest/1989803",
 		"pub_date": "2021-09-08T22:28:26.064912338Z"
+	},
+	{
+		"name": "The Mobile Fingerprinting Innovation Technology (mFIT) Challenge",
+		"agency": "National Institute of Standards and Technology (NIST) - Public Safety Communications Research (PSCR) Division",
+		"summary": "Advancing Mobile Fingerprint Capture Technology for Law Enforcement",
+		"deadline": "2021-10-18T17:00:00-04:00",
+		"details_url": "https://www.challenge.gov/challenge/mfit-challenge/",
+		"pub_date": "2021-09-16T01:30:10.040414956Z"
 	},
 	{
 		"name": "Open Data for Good Grand Challenge ",
