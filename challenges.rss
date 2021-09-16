@@ -4,21 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Mon, 13 Sep 2021 16:45:45 UTC</pubDate>
-		<item>
-			<title>US Navy Challenge: Unmanned Surface Vehicle (USV) for Waterside Security  · Department of Defense, Naval Undersea Warfare Center, Division Newport (NUWCDIVNPT)</title>
-			<link>https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8</link>
-			<description>Summary: Design for an expeditionary USV that is modular and attritable&#xA;&#xA;Deadline: 2021-09-13 23:59:00 -0400 -0400</description>
-			<pubDate>Tue, 13 Jul 2021 12:48:59 UTC</pubDate>
-			<guid>https://innocentive.wazoku.com/#/challenge/54b482dbfeb14a07bfd120ce1b8d34a8</guid>
-		</item>
-		<item>
-			<title>NASA Challenge Lunar TORCH · National Aeronautics and Space Administration (NASA)</title>
-			<link>https://grabcad.com/challenges/nasa-challenge-lunar-torch</link>
-			<description>Summary: Help NASA design a mobile lunar heliostat that can be used to support operations at the Artemis Base Camp&#xA;&#xA;Deadline: 2021-09-13 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 22 Jul 2021 01:28:51 UTC</pubDate>
-			<guid>https://grabcad.com/challenges/nasa-challenge-lunar-torch</guid>
-		</item>
+		<pubDate>Thu, 16 Sep 2021 01:30:10 UTC</pubDate>
 		<item>
 			<title>Palmetto Tech Bridge Pitch Jam Prize Challenge 2021 · Naval Information Warfare Center (NIWC), Atlantic  </title>
 			<link>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</link>
@@ -151,6 +137,13 @@
 			<description>Summary: Employ your UI and UX design skills to help make it easier for organizations around the world to be recognized...&#xA;&#xA;Deadline: 2021-10-15 12:59:00 -0400 -0400</description>
 			<pubDate>Wed, 08 Sep 2021 22:28:26 UTC</pubDate>
 			<guid>https://www.freelancer.com/contest/1989803</guid>
+		</item>
+		<item>
+			<title>The Mobile Fingerprinting Innovation Technology (mFIT) Challenge · National Institute of Standards and Technology (NIST) - Public Safety Communications Research (PSCR) Division</title>
+			<link>https://www.challenge.gov/challenge/mfit-challenge/</link>
+			<description>Summary: Advancing Mobile Fingerprint Capture Technology for Law Enforcement&#xA;&#xA;Deadline: 2021-10-18 17:00:00 -0400 -0400</description>
+			<pubDate>Thu, 16 Sep 2021 01:30:10 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/mfit-challenge/</guid>
 		</item>
 		<item>
 			<title>Open Data for Good Grand Challenge  · U.S. Census Bureau</title>
