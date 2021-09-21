@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Palmetto Tech Bridge Pitch Jam Prize Challenge 2021",
-		"agency": "Naval Information Warfare Center (NIWC), Atlantic  ",
-		"summary": "Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)",
-		"deadline": "2021-09-19T23:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/",
-		"pub_date": "2021-08-19T01:12:22.77359496Z"
-	},
-	{
 		"name": "Mapping Patient Journeys in Drug Addiction Treatment",
 		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
 		"summary": "Mapping the obstacles patients face in getting treatment for drug addiction",
@@ -262,6 +254,14 @@
 		"deadline": "2021-12-31T23:59:00-05:00",
 		"details_url": "https://www.challenge.gov/challenge/epic-campaign/",
 		"pub_date": "2021-04-27T06:24:12.425608332Z"
+	},
+	{
+		"name": "LitCoin NLP Challenge",
+		"agency": "National Institutes of Health (NIH), National Center for Advancing Translational Sciences (NCATS)",
+		"summary": "Designing an NLP system to create accessible knowledge from research",
+		"deadline": "2022-01-31T17:00:00-05:00",
+		"details_url": "https://ncats.nih.gov/funding/challenges/litcoin",
+		"pub_date": "2021-09-21T01:24:32.326187517Z"
 	},
 	{
 		"name": "Perovskite Startup Prize",
