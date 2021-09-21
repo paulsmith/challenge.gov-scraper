@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 16 Sep 2021 22:27:46 UTC</pubDate>
-		<item>
-			<title>Palmetto Tech Bridge Pitch Jam Prize Challenge 2021 · Naval Information Warfare Center (NIWC), Atlantic  </title>
-			<link>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</link>
-			<description>Summary: Seeking innovative technology concepts for Multilevel Security (MLS) and Assured Position Navigation and Timing (PNT)&#xA;&#xA;Deadline: 2021-09-19 23:00:00 -0400 -0400</description>
-			<pubDate>Thu, 19 Aug 2021 01:12:22 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/palmetto-tech-bridge-pitch-jam-prize-challenge-2021/</guid>
-		</item>
+		<pubDate>Tue, 21 Sep 2021 01:24:32 UTC</pubDate>
 		<item>
 			<title>Mapping Patient Journeys in Drug Addiction Treatment · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
 			<link>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</link>
@@ -235,6 +228,13 @@
 			<description>Summary: Help shape plans that support the President’s Management Agenda (PMA) and other key government-wide acquisition priorities and initiatives&#xA;&#xA;Deadline: 2021-12-31 23:59:00 -0500 -0500</description>
 			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/epic-campaign/</guid>
+		</item>
+		<item>
+			<title>LitCoin NLP Challenge · National Institutes of Health (NIH), National Center for Advancing Translational Sciences (NCATS)</title>
+			<link>https://ncats.nih.gov/funding/challenges/litcoin</link>
+			<description>Summary: Designing an NLP system to create accessible knowledge from research&#xA;&#xA;Deadline: 2022-01-31 17:00:00 -0500 -0500</description>
+			<pubDate>Tue, 21 Sep 2021 01:24:32 UTC</pubDate>
+			<guid>https://ncats.nih.gov/funding/challenges/litcoin</guid>
 		</item>
 		<item>
 			<title>Perovskite Startup Prize · Department of Energy-National Renewable Energy Laboratory (NREL)</title>
