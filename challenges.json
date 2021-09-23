@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Mapping Patient Journeys in Drug Addiction Treatment",
-		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
-		"summary": "Mapping the obstacles patients face in getting treatment for drug addiction",
-		"deadline": "2021-09-22T23:59:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/",
-		"pub_date": "2021-04-22T12:24:30.596121843Z"
-	},
-	{
 		"name": "Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challenge",
 		"agency": "Department of Defense - Irregular Warfare Technical Support Directorate (IWTSD)",
 		"summary": "Seeking cutting edge algorithms and robotic platforms for autonomous maneuver in enclosed spaces",
@@ -230,6 +222,14 @@
 		"deadline": "2021-12-03T23:59:00-05:00",
 		"details_url": "https://www.challenge.gov/challenge/ecotox-challenge/",
 		"pub_date": "2021-02-04T22:43:41.85449802Z"
+	},
+	{
+		"name": "Cooling Solutions Challenge",
+		"agency": "Department of Homeland Security (DHS)",
+		"summary": "Countering extreme heat with cool technology",
+		"deadline": "2021-12-07T20:00:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/cooling-solutions-challenge/",
+		"pub_date": "2021-09-23T14:25:14.616864979Z"
 	},
 	{
 		"name": "I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse",

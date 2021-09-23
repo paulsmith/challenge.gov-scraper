@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 21 Sep 2021 01:24:32 UTC</pubDate>
-		<item>
-			<title>Mapping Patient Journeys in Drug Addiction Treatment · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
-			<link>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</link>
-			<description>Summary: Mapping the obstacles patients face in getting treatment for drug addiction&#xA;&#xA;Deadline: 2021-09-22 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 22 Apr 2021 12:24:30 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/mapping-patient-journeys-in-drug-addiction-treatment/</guid>
-		</item>
+		<pubDate>Thu, 23 Sep 2021 14:25:14 UTC</pubDate>
 		<item>
 			<title>Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challenge · Department of Defense - Irregular Warfare Technical Support Directorate (IWTSD)</title>
 			<link>https://mosaichallenge.com/</link>
@@ -207,6 +200,13 @@
 			<description>Summary: Develop high quality, low-cost tools that assess global gene expression in common aquatic toxicity test organisms&#xA;&#xA;Deadline: 2021-12-03 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/ecotox-challenge/</guid>
+		</item>
+		<item>
+			<title>Cooling Solutions Challenge · Department of Homeland Security (DHS)</title>
+			<link>https://www.challenge.gov/challenge/cooling-solutions-challenge/</link>
+			<description>Summary: Countering extreme heat with cool technology&#xA;&#xA;Deadline: 2021-12-07 20:00:00 -0500 -0500</description>
+			<pubDate>Thu, 23 Sep 2021 14:25:14 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/cooling-solutions-challenge/</guid>
 		</item>
 		<item>
 			<title>I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
