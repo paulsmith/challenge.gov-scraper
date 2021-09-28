@@ -4,35 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Thu, 23 Sep 2021 14:25:14 UTC</pubDate>
-		<item>
-			<title>Mobile Standoff Autonomous Indoor Capabilities (MoSAIC) Challenge · Department of Defense - Irregular Warfare Technical Support Directorate (IWTSD)</title>
-			<link>https://mosaichallenge.com/</link>
-			<description>Summary: Seeking cutting edge algorithms and robotic platforms for autonomous maneuver in enclosed spaces&#xA;&#xA;Deadline: 2021-09-23 16:59:00 -0400 -0400</description>
-			<pubDate>Thu, 01 Jul 2021 10:30:52 UTC</pubDate>
-			<guid>https://mosaichallenge.com/</guid>
-		</item>
-		<item>
-			<title>Innovative Community Engagement Strategies to Reduce HIV-related Stigma and Disparities Challenge  · Department of Health &amp; Human Services - Office of Minority Health </title>
-			<link>https://www.challenge.gov/challenge/reduce-HIV-related-stigma/</link>
-			<description>Summary: Engaging Communities to Reduce HIV-Related Stigma and Increase Prevention and Treatment Among Racial and Ethnic Minority People&#xA;&#xA;Deadline: 2021-09-23 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 22 Jul 2021 01:28:51 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/reduce-HIV-related-stigma/</guid>
-		</item>
-		<item>
-			<title>Estrategias innovadoras de participación comunitaria para reducir el estigma y las disparidades relacionadas con el VIH · Department of Health &amp; Human Services - Office of Minority Health </title>
-			<link>https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH</link>
-			<description>Summary: Involucrando a las comunidades para reducir el estigma relacionado con el VIH, y aumentar la prevención y el tratamiento&#xA;&#xA;Deadline: 2021-09-23 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 22 Jul 2021 16:50:00 UTC</pubDate>
-			<guid>https://www.minorityhealth.hhs.gov/espanol/InstruccionesRetodelVIH</guid>
-		</item>
-		<item>
-			<title>DARPA Subterranean (SubT) Challenge · Department of Defense - Defense Advanced Research Projects Agency</title>
-			<link>https://www.subtchallenge.com/</link>
-			<description>Summary: Create breakthrough technologies and capabilities for underground operations.&#xA;&#xA;Deadline: 2021-09-24 23:59:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.subtchallenge.com/</guid>
-		</item>
+		<pubDate>Tue, 28 Sep 2021 01:25:39 UTC</pubDate>
 		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.topcoder.com/community/streamflow</link>
