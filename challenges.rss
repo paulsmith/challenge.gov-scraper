@@ -4,7 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Wed, 29 Sep 2021 16:45:55 UTC</pubDate>
+		<pubDate>Wed, 29 Sep 2021 22:27:44 UTC</pubDate>
 		<item>
 			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
 			<link>https://www.topcoder.com/community/streamflow</link>
@@ -200,6 +200,13 @@
 			<description>Summary: Help shape plans that support the President’s Management Agenda (PMA) and other key government-wide acquisition priorities and initiatives&#xA;&#xA;Deadline: 2021-12-31 23:59:00 -0500 -0500</description>
 			<pubDate>Tue, 27 Apr 2021 06:24:12 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/epic-campaign/</guid>
+		</item>
+		<item>
+			<title>2022 FAA Challenge: Smart Connected Aviation Student Competition · Federal Aviation Administration (FAA)</title>
+			<link>https://www.challenge.gov/challenge/2022-faa-challenge-smart-connection-aviation-student-competition/</link>
+			<description>Summary: This year’s FAA Challenge focuses on Smart Connected Aviation, providing undergraduate and graduate students the opportunity to design, build, and...&#xA;&#xA;Deadline: 2022-01-20 23:59:00 -0500 -0500</description>
+			<pubDate>Wed, 29 Sep 2021 22:27:43 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/2022-faa-challenge-smart-connection-aviation-student-competition/</guid>
 		</item>
 		<item>
 			<title>LitCoin NLP Challenge · National Institutes of Health (NIH), National Center for Advancing Translational Sciences (NCATS)</title>
