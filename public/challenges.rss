@@ -4,56 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Wed, 29 Sep 2021 22:27:44 UTC</pubDate>
-		<item>
-			<title>Streamflow Forecast Rodeo · Department of the Interior - Bureau of Reclamation</title>
-			<link>https://www.topcoder.com/community/streamflow</link>
-			<description>Summary: Improving short-term streamflow forecast skill.&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
-			<pubDate>Thu, 04 Feb 2021 22:43:41 UTC</pubDate>
-			<guid>https://www.topcoder.com/community/streamflow</guid>
-		</item>
-		<item>
-			<title>First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized · National Institute of Standards and Technology (NIST)</title>
-			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/</link>
-			<description>Summary: Enhancing first responder search &amp; rescue operations in search of missing persons in a heavily forested area using a UAS...&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
-			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/</guid>
-		</item>
-		<item>
-			<title>2021 SERDP AFFF Challenge · Department of Defense - Office of the Secretary of Defense (Acquisition &amp; Sustainment)</title>
-			<link>https://www.challenge.gov/challenge/2021-serdp-afff-challenge/</link>
-			<description>Summary: PFAS-free Firefighting Foams&#xA;&#xA;Deadline: 2021-09-30 14:00:00 -0400 -0400</description>
-			<pubDate>Tue, 13 Jul 2021 12:48:59 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/2021-serdp-afff-challenge/</guid>
-		</item>
-		<item>
-			<title>NHLBI Air You Wear Challenge · National Institute of Health (NIH) - National Heart, Lung &amp; Blood Institute (NHLBI)</title>
-			<link>https://www.challenge.gov/challenge/air-you-wear-challenge/</link>
-			<description>Summary: Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...&#xA;&#xA;Deadline: 2021-09-30 17:00:00 -0400 -0400</description>
-			<pubDate>Thu, 24 Jun 2021 12:45:46 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/air-you-wear-challenge/</guid>
-		</item>
-		<item>
-			<title>First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control · National Institute of Standards and Technology (NIST)</title>
-			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/</link>
-			<description>Summary: Improve security on UAS control channels and navigation functions&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
-			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/</guid>
-		</item>
-		<item>
-			<title>First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay · National Institute of Standards &amp; Technology (NIST)</title>
-			<link>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/</link>
-			<description>Summary: Enhancing first responder operations by building a UAS to support broadband in a degraded cellular service area&#xA;&#xA;Deadline: 2021-09-30 21:00:00 -0400 -0400</description>
-			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/</guid>
-		</item>
-		<item>
-			<title>xTechHBCU · Department of Defense - U.S. Army</title>
-			<link>https://www.challenge.gov/challenge/xTechHBCU/</link>
-			<description>Summary: xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...&#xA;&#xA;Deadline: 2021-10-01 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 17 Aug 2021 04:38:15 UTC</pubDate>
-			<guid>https://www.challenge.gov/challenge/xTechHBCU/</guid>
-		</item>
+		<pubDate>Fri, 01 Oct 2021 22:27:38 UTC</pubDate>
 		<item>
 			<title>Sustainable Communities Web Challenge · Environmental Protection Agency (EPA)</title>
 			<link>https://model.earth/community/challenge/</link>
@@ -139,6 +90,13 @@
 			<guid>https://www.challenge.gov/challenge/artisanal-mining-grand-challenge-the-amazon/</guid>
 		</item>
 		<item>
+			<title>HHS Endocrine-Disrupting Chemicals (EDC) Innovator Award Competition: Innovative Methods to Address the Impact of Endocrine-Disrupting Chemicals on Black or African American Women · The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH)</title>
+			<link>https://www.challenge.gov/challenge/hhs-endocrine-disrupting-chemicals-innovator-award-competition/</link>
+			<description>Summary: The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to combat...&#xA;&#xA;Deadline: 2021-11-15 23:59:00 -0500 -0500</description>
+			<pubDate>Fri, 01 Oct 2021 22:27:38 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/hhs-endocrine-disrupting-chemicals-innovator-award-competition/</guid>
+		</item>
+		<item>
 			<title>2021 &#34;$100,000 for Start a SUD Startup&#34; Challenge · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>
 			<link>https://www.challenge.gov/challenge/2021-start-a-sud-startup-challenge/</link>
 			<description>Summary: Testing the premise of research ideas that can be fostered into biotech startups&#xA;&#xA;Deadline: 2021-11-16 23:59:00 -0500 -0500</description>
@@ -179,6 +137,13 @@
 			<description>Summary: Countering extreme heat with cool technology&#xA;&#xA;Deadline: 2021-12-07 20:00:00 -0500 -0500</description>
 			<pubDate>Thu, 23 Sep 2021 14:25:14 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/cooling-solutions-challenge/</guid>
+		</item>
+		<item>
+			<title>HHS Postpartum Equity in Care Challenge: Innovative Methods to Improve Postpartum Care for Black or African American and American Indian/Alaska Native Women · Office on Women’s Health (OWH)</title>
+			<link>https://www.challenge.gov/challenge/hhs-postpartum-equity-in-care-challenge/</link>
+			<description>Summary: Innovative methods to improve equity of postpartum care for Black or African American and American Indian/Alaska Native women enrolled in...&#xA;&#xA;Deadline: 2021-12-07 17:00:00 -0500 -0500</description>
+			<pubDate>Fri, 01 Oct 2021 22:27:38 UTC</pubDate>
+			<guid>https://www.challenge.gov/challenge/hhs-postpartum-equity-in-care-challenge/</guid>
 		</item>
 		<item>
 			<title>I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse · Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse</title>

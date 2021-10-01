@@ -1,61 +1,5 @@
 [
 	{
-		"name": "Streamflow Forecast Rodeo",
-		"agency": "Department of the Interior - Bureau of Reclamation",
-		"summary": "Improving short-term streamflow forecast skill.",
-		"deadline": "2021-09-30T21:00:00-04:00",
-		"details_url": "https://www.topcoder.com/community/streamflow",
-		"pub_date": "2021-02-04T22:43:41.85449802Z"
-	},
-	{
-		"name": "First Responder UAS Triple Challenge 3.1: FastFind - UAS Search Optimized",
-		"agency": "National Institute of Standards and Technology (NIST)",
-		"summary": "Enhancing first responder search \u0026 rescue operations in search of missing persons in a heavily forested area using a UAS...",
-		"deadline": "2021-09-30T21:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-fastfind/",
-		"pub_date": "2021-07-06T10:30:37.334418689Z"
-	},
-	{
-		"name": "2021 SERDP AFFF Challenge",
-		"agency": "Department of Defense - Office of the Secretary of Defense (Acquisition \u0026 Sustainment)",
-		"summary": "PFAS-free Firefighting Foams",
-		"deadline": "2021-09-30T14:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/2021-serdp-afff-challenge/",
-		"pub_date": "2021-07-13T12:48:59.88735139Z"
-	},
-	{
-		"name": "NHLBI Air You Wear Challenge",
-		"agency": "National Institute of Health (NIH) - National Heart, Lung \u0026 Blood Institute (NHLBI)",
-		"summary": "Help outpatients on supplemental oxygen lead fuller lives and win money to develop your solution to improve their oxygen delivery...",
-		"deadline": "2021-09-30T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/air-you-wear-challenge/",
-		"pub_date": "2021-06-24T12:45:46.289625026Z"
-	},
-	{
-		"name": "First Responder UAS Triple Challenge 3.3: Shields Up! Securing UAS Navigation and Control",
-		"agency": "National Institute of Standards and Technology (NIST)",
-		"summary": "Improve security on UAS control channels and navigation functions",
-		"deadline": "2021-09-30T21:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-shieldsup/",
-		"pub_date": "2021-07-06T10:30:37.334418689Z"
-	},
-	{
-		"name": "First Responder UAS Triple Challenge 3.2: Lifelink - UAS Data Relay",
-		"agency": "National Institute of Standards \u0026 Technology (NIST)",
-		"summary": "Enhancing first responder operations by building a UAS to support broadband in a degraded cellular service area",
-		"deadline": "2021-09-30T21:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/first-responder-uas-triple-challenge-lifelink/",
-		"pub_date": "2021-07-06T10:30:37.334418689Z"
-	},
-	{
-		"name": "xTechHBCU",
-		"agency": "Department of Defense - U.S. Army",
-		"summary": "xTechHBCU aims to engage with eligible institutions as defined below, and highlight opportunities to collaborate with the Army to tackle...",
-		"deadline": "2021-10-01T17:00:00-04:00",
-		"details_url": "https://www.challenge.gov/challenge/xTechHBCU/",
-		"pub_date": "2021-08-17T04:38:15.763203337Z"
-	},
-	{
 		"name": "Sustainable Communities Web Challenge",
 		"agency": "Environmental Protection Agency (EPA)",
 		"summary": "Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities",
@@ -152,6 +96,14 @@
 		"pub_date": "2021-07-27T06:37:04.653664307Z"
 	},
 	{
+		"name": "HHS Endocrine-Disrupting Chemicals (EDC) Innovator Award Competition: Innovative Methods to Address the Impact of Endocrine-Disrupting Chemicals on Black or African American Women",
+		"agency": "The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH)",
+		"summary": "The Office of the Assistant Secretary for Health (OASH), Office on Women’s Health (OWH) is seeking innovative ways to combat...",
+		"deadline": "2021-11-15T23:59:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/hhs-endocrine-disrupting-chemicals-innovator-award-competition/",
+		"pub_date": "2021-10-01T22:27:38.187416245Z"
+	},
+	{
 		"name": "2021 \"$100,000 for Start a SUD Startup\" Challenge",
 		"agency": "Department of Health and Human Services, National Institutes of Health, National Institute on Drug Abuse",
 		"summary": "Testing the premise of research ideas that can be fostered into biotech startups",
@@ -198,6 +150,14 @@
 		"deadline": "2021-12-07T20:00:00-05:00",
 		"details_url": "https://www.challenge.gov/challenge/cooling-solutions-challenge/",
 		"pub_date": "2021-09-23T14:25:14.616864979Z"
+	},
+	{
+		"name": "HHS Postpartum Equity in Care Challenge: Innovative Methods to Improve Postpartum Care for Black or African American and American Indian/Alaska Native Women",
+		"agency": "Office on Women’s Health (OWH)",
+		"summary": "Innovative methods to improve equity of postpartum care for Black or African American and American Indian/Alaska Native women enrolled in...",
+		"deadline": "2021-12-07T17:00:00-05:00",
+		"details_url": "https://www.challenge.gov/challenge/hhs-postpartum-equity-in-care-challenge/",
+		"pub_date": "2021-10-01T22:27:38.187416245Z"
 	},
 	{
 		"name": "I Strengthen My Nation: Artistic Expressions of Resilience to Stand Against Substance Misuse",
