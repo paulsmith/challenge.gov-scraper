@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Fri, 01 Oct 2021 22:27:38 UTC</pubDate>
-		<item>
-			<title>Sustainable Communities Web Challenge · Environmental Protection Agency (EPA)</title>
-			<link>https://model.earth/community/challenge/</link>
-			<description>Summary: Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities&#xA;&#xA;Deadline: 2021-10-02 16:00:00 -0400 -0400</description>
-			<pubDate>Tue, 22 Jun 2021 08:35:01 UTC</pubDate>
-			<guid>https://model.earth/community/challenge/</guid>
-		</item>
+		<pubDate>Tue, 05 Oct 2021 04:37:47 UTC</pubDate>
 		<item>
 			<title>American-Made Solar Prize Round 5 · U.S. Department of Energy</title>
 			<link>https://americanmadechallenges.org/solarprize/round5/index.html </link>
@@ -158,6 +151,13 @@
 			<description>Summary: NIDA challenges creative youth to develop ideas for community projects that could decrease substance use and promote resilience. &#xA;&#xA;Deadline: 2021-12-10 23:59:00 -0500 -0500</description>
 			<pubDate>Thu, 08 Apr 2021 04:24:17 UTC</pubDate>
 			<guid>https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects</guid>
+		</item>
+		<item>
+			<title>Taking Action: COVID-19 Diversity, Equity, &amp; Inclusion Challenge · National Science Foundation (NSF)</title>
+			<link>https://www.nsf.gov/ehr/Covid19Challenge/Home.jsp</link>
+			<description>Summary: Identifying systemic strategies to address long-term impacts of the pandemic on DEI  in STEM education programs and careers.&#xA;&#xA;Deadline: 2021-12-30 23:59:00 -0500 -0500</description>
+			<pubDate>Tue, 05 Oct 2021 04:37:46 UTC</pubDate>
+			<guid>https://www.nsf.gov/ehr/Covid19Challenge/Home.jsp</guid>
 		</item>
 		<item>
 			<title>Engaging Procurement Ideas to Consider (EPIC) Campaign · Office of Management and Budget (OMB), Office of Federal Procurement Policy (OFPP)</title>

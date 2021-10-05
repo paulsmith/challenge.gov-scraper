@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Sustainable Communities Web Challenge",
-		"agency": "Environmental Protection Agency (EPA)",
-		"summary": "Customize and extend our apps using EPA models with new designs and data to provide sustainability information for communities",
-		"deadline": "2021-10-02T16:00:00-04:00",
-		"details_url": "https://model.earth/community/challenge/",
-		"pub_date": "2021-06-22T08:35:01.655110853Z"
-	},
-	{
 		"name": "American-Made Solar Prize Round 5",
 		"agency": "U.S. Department of Energy",
 		"summary": "Energize U.S. solar innovation through a series of contests, earning part of $4.6 million in prizes for your novel technology...",
@@ -174,6 +166,14 @@
 		"deadline": "2021-12-10T23:59:00-05:00",
 		"details_url": "https://www.drugabuse.gov/research/nida-research-programs-activities/nida-challenges-program/strengthen_my_nation/community_projects",
 		"pub_date": "2021-04-08T04:24:17.889237535Z"
+	},
+	{
+		"name": "Taking Action: COVID-19 Diversity, Equity, \u0026 Inclusion Challenge",
+		"agency": "National Science Foundation (NSF)",
+		"summary": "Identifying systemic strategies to address long-term impacts of the pandemic on DEI  in STEM education programs and careers.",
+		"deadline": "2021-12-30T23:59:00-05:00",
+		"details_url": "https://www.nsf.gov/ehr/Covid19Challenge/Home.jsp",
+		"pub_date": "2021-10-05T04:37:46.929270735Z"
 	},
 	{
 		"name": "Engaging Procurement Ideas to Consider (EPIC) Campaign",
