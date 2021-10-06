@@ -1,13 +1,5 @@
 [
 	{
-		"name": "American-Made Solar Prize Round 5",
-		"agency": "U.S. Department of Energy",
-		"summary": "Energize U.S. solar innovation through a series of contests, earning part of $4.6 million in prizes for your novel technology...",
-		"deadline": "2021-10-05T17:00:00-04:00",
-		"details_url": "https://americanmadechallenges.org/solarprize/round5/index.html ",
-		"pub_date": "2021-07-06T10:30:37.334418689Z"
-	},
-	{
 		"name": "NICHD's Decoding Maternal Morbidity Data Challenge",
 		"agency": "National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
 		"summary": "Delivering New Data Solutions to Improve Maternal Health",
@@ -78,6 +70,14 @@
 		"deadline": "2021-11-03T17:00:00-04:00",
 		"details_url": "https://www.challenge.gov/challenge/nasa-techrise-student-challenge/",
 		"pub_date": "2021-05-25T13:00:34.688803554Z"
+	},
+	{
+		"name": "Power Play",
+		"agency": "National Security Innovation Network (NSIN)",
+		"summary": "Develop concepts, technologies, or systems to efficiently provide, store, or consume energy in an expeditionary environment.",
+		"deadline": "2021-11-03T20:00:00-04:00",
+		"details_url": "https://www.nsin.mil/hacks/",
+		"pub_date": "2021-10-06T22:27:47.642356534Z"
 	},
 	{
 		"name": "The Artisanal Mining Grand Challenge: The Amazon",

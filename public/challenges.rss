@@ -4,14 +4,7 @@
 		<title>Unofficial Challenge.gov challenges feed</title>
 		<link>https://paulsmith.github.io/challenge.gov-scraper/challenges.rss</link>
 		<description>Unofficial Challenge.gov challenges feed</description>
-		<pubDate>Tue, 05 Oct 2021 04:37:47 UTC</pubDate>
-		<item>
-			<title>American-Made Solar Prize Round 5 · U.S. Department of Energy</title>
-			<link>https://americanmadechallenges.org/solarprize/round5/index.html </link>
-			<description>Summary: Energize U.S. solar innovation through a series of contests, earning part of $4.6 million in prizes for your novel technology...&#xA;&#xA;Deadline: 2021-10-05 17:00:00 -0400 -0400</description>
-			<pubDate>Tue, 06 Jul 2021 10:30:37 UTC</pubDate>
-			<guid>https://americanmadechallenges.org/solarprize/round5/index.html </guid>
-		</item>
+		<pubDate>Wed, 06 Oct 2021 22:27:47 UTC</pubDate>
 		<item>
 			<title>NICHD&#39;s Decoding Maternal Morbidity Data Challenge · National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</title>
 			<link>https://www.challenge.gov/challenge/decoding-maternal-morbidity-data-challenge/</link>
@@ -74,6 +67,13 @@
 			<description>Summary: Design an experiment to test on a suborbital rocket or high-altitude balloon.&#xA;&#xA;Deadline: 2021-11-03 17:00:00 -0400 -0400</description>
 			<pubDate>Tue, 25 May 2021 13:00:34 UTC</pubDate>
 			<guid>https://www.challenge.gov/challenge/nasa-techrise-student-challenge/</guid>
+		</item>
+		<item>
+			<title>Power Play · National Security Innovation Network (NSIN)</title>
+			<link>https://www.nsin.mil/hacks/</link>
+			<description>Summary: Develop concepts, technologies, or systems to efficiently provide, store, or consume energy in an expeditionary environment.&#xA;&#xA;Deadline: 2021-11-03 20:00:00 -0400 -0400</description>
+			<pubDate>Wed, 06 Oct 2021 22:27:47 UTC</pubDate>
+			<guid>https://www.nsin.mil/hacks/</guid>
 		</item>
 		<item>
 			<title>The Artisanal Mining Grand Challenge: The Amazon · U.S. Agency for International Development</title>
